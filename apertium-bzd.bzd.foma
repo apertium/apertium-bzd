@@ -1,0 +1,155 @@
+### bribri.foma ###
+
+# Vowels
+define V		[ a | e | e ̈ | i | o | o ̈ | u |  a ̱ |  e ̱ | i ̱ | o ̱ | u ̱ ] ;  
+define Vo [ a | e | e ̈ | i | o | o ̈ | u ] ;
+define Vn   [a ̱ |  e ̱ | i ̱ | o ̱ | u ̱ ] ;  
+define tono    ̀ |  ̂ |  ́  ;
+define Cons 			[ b | c h | d | j | k | l | m | n | ñ | p | r | r r | s | s h | t | t k | t s | w | y  |  '];
+
+read lexc apertium-bzd.bzd.lexc
+define Lexicon	;
+
+#Sustantivos
+#Cambio de tonos
+# Pluralización de los sustantivos, algunos sustantivos sufren cambios al añadírseles esta flexión:
+#Los sustantivos terminados en vocal con tono alto cambian este tono por el descendente cuando se le añade la flexión plural
+define CambioTono1     ̀ (->)   ́  ||       _     ?*     p  a  .#.      ;
+#Los sustantivos terminados en vocal con tono bajo precedia a su vez por vocal con tono alto, cambian, en el habla este de Talamanca, 
+#el tono bajo por el tono descendente al añadírseles el pluralizador
+define CambioTono2   [...]  (->)   ́  || V  ̀  ?*  V _ p a .#. ; 
+define Disimilacion3    m -> 0 || _  p a .#. ;  
+define Sincopa1   a  | u  | a ̱  |  u ̱  (->) 0 ||   b   |  m   _   l  ;  #bulu    ->  blu
+define Sincopa2    a    (->) 0 ||   t    |   k   _    r  | l ;  
+define Sincopa3     a  (->)  0 ||   s h  |  c  h   _    k  | l   ;
+define Dim          a   (->)  0  ||    _     l  a   |    l  a   ̀  ;
+
+
+#Pronombres 
+#define Contraccion1  y e '  t o ̈  ->  y o ̈ ,,  b e '  t o ̈  ->  b o ̈ ,,  s e '  t o ̈  -> s o ̈  ;
+
+#Numerales
+define Asimilacion5  k o ̈  -> 0 || p a ̀ _ l y o ̈ k ;
+define Disimilacion1   m  (->) p  || d a b o ̀ _  t   |   .#.  ,,   m  (->) l  ||  d a b  o ̀ _ k a  ; 
+define Disimilacion2   m   (->)  0  ||   _  t  ;   !  esta regla me permite analizar kalö́tak   kalö́m +  tak
+
+#Verbos
+
+
+#Realización del fonema /d/-> r en posición interna, seguido por vocal oral o en posición final de sílaba precedido por vocal oral, y  /d/ -> n   seguido de vocal nasal o precedido de vocal nasal
+
+ define CambioTono3   [...] (->)  ̀ || Vo | Vn | V '  _  d  Vn   |    d ;
+  define Alofono1  d  (->)  r ||   .#. |  V tono  | V  ' | V   _   [ .#.  |  Vo    |  Cons ]  ,,   d  (->) n ||    V tono  |  V  _  [ Vn  .#.  | Vn ]    ,,  d (->) n ||  Vn tono _  .#.  ;  
+
+#define Alofonod1    d ->d || .#. _ Vo ;
+#define Alofonod2    d ->n || _ Vn, Vn _ .#. ;
+#define Alofonod3  d -> r|| _ Vo | Cons ,    Vo  tono |  Vo  _  .#. ;
+
+
+ 
+
+
+
+
+
+
+
+
+
+  define  Asimilacion1	 n  (->)  r  ||  _  Vo  \ ̱   |  Cons    |  .#. ;
+
+ define  Disimilacion4					w  -> 0 || _ u  tono | u ̱  tono ;   ! Este regla permite: sa̱ú̱k  pero sa̱wè̱
+ 
+ define Consonantizacion					u   -> w || .#.  |   V  tono    _  Vo ;  ! esta regla se crea por el verbo wö́k, cuya raíz es u, pero las formas activas son wö́k > uö́k, wö́ke̱  > uö́ke̱
+ 
+ define Asimilacion7            s  (->)   0  ||    _    t  s  ; !   stsö́k  >  tsö́k,  stsa'  > tsa'
+ 
+ 
+ # Realización del fonema /b/ ante una consonante lateral 
+ 
+ define Alofono2     m   (->)  b  ||   _   l  ;
+
+define Aferesis1			a | a ̱    (->)  0 ||  .#.     _    p    |  j  |  m   |  ñ   ;   
+
+!define Aferesis2        a | a ̱    -> 0   ||  a  tono    t  s  |  '   _    p    |  j  |  m   |  ñ  ;   # ( a tono t s es para poder realizar la forma ulátska)
+
+define CambioTono5		'  (->)    ́ || t o ̱  |   s u ̱  |  d e ̈  |  t  u l u _    ;  #Esta regla nos permite analizar sú̱  improspectivo y otros casos similares de verbos cuyo improspectivo cambia por tono descendente
+define CambioTono6     '  (->)   ̂  ||  _    \.#.    |   \ p  a       ;  # De acuerdo con Julio el saltillo cambia a tono  ascendente cuando no queda en posición final, ej: sû̱mi̱
+ define CambioTono7		̀  |   ́  |   ̂  (->)  0 ||  tono  ? *   |  '  ? *   _   ;                                                                                       # Es mejor que está regla no sea optativa para evitar sobregeneración de formas
+define CambioTono8	   	'   (->) 0   ||      ́   ? *  |    ̀  ? *    | Cons |   ̂  ? *  |   '  ? * |   d e ̈    _   .#.	 ;	# Esta regla es para eliminar el saltillo en los improspectivos de los verbos cuyo tema no termina en vocal, también en casos como talâo̱
+!define CambioTono13   '  (->)  0  ||   .#.  i  _  a ̱  ;   # Esta regla sería para explicar la posposición i̱a̱  Se consultará y sino se puede eliminar 
+define CambioTono9       ́   |    ̂ (->)    ̀    ||   V _  n  Vn  ; 
+define CambioTono10     ̀  |   ̂  (->)    ́   ||  _  r  |  n  	;
+!define CambioTono4   [...]  (->)   ́ ||  _   [ r  ] ;  # podría ser opcional, hacen falta más análisis
+define CambioTono11		̀     (->)   ́  ||  _  l  a  .#.  |   ? *  l  a  .#.   ;
+define CambioTono12      r e ̈ '  (->)   r e ̈  ||     .#. _  .#.  ;  # esta regla es para permitir formas como rë -> dë'
+define CambioTono13     i '    (->)   i ́ ||    _  j k e ̈  ;  # esta regla permite analizar     íjkë como un desmostrativo   comparativo i'  +  jkë
+
+
+#Degeminaciones
+define Degeminacion1    l l ->  l ;
+define Degeminacion2   u ̱  u ̱    ->   u ̱    ;     !  se mantienen por ku̱é̱.  Esta regla es para evitar formas como ta̱u̱ú̱k o ma̱u̱ú̱k, pero permiter la ambivalencia entre   ta̱wè̱  y ta̱u̱è̱ o ma̱u̱è̱  y ma̱wè̱*
+define Degeminacion3			s s ->  s ;
+define Asimilacion2			o ̈ -> i ||  i d | i r  _ r .#.  |     r   l  a  .#.;
+define Apocope1			r  (->) 0 || r o ̈ _ .#. ;
+define VerbIrregular		d e ́ (->) d a ́ ||  .#. _  .#.  ;
+#Adverbios
+#define Apocope2			k (->) 0 ||  e ̱ ' r o ̈ _ .#.  ;
+
+
+
+
+read lexc apertium-bzd.bzd.lexc 
+define Lexicon
+define Gramatica   Lexicon	           	.o.   ! composición de reglas de alteración
+
+Dim			.o.
+Sincopa1	.o.
+Sincopa2   .o.
+Sincopa3   .o.
+Aferesis1		.o.
+Asimilacion1	.o.
+CambioTono1	.o.
+CambioTono2	.o.
+CambioTono3	.o.
+CambioTono5  .o.
+CambioTono6  .o.
+CambioTono7	.o.
+CambioTono8		.o.
+Alofono1			.o.
+Disimilacion3	.o.
+Asimilacion5		.o.
+Disimilacion4	.o.
+Degeminacion1	.o.
+Degeminacion2   .o.
+Degeminacion3	.o.
+Disimilacion1 		.o.
+Disimilacion2   .o.
+Apocope1				.o.
+VerbIrregular		.o.
+CambioTono9			.o.
+CambioTono10		.o.
+Asimilacion2	.o.
+CambioTono11	.o.
+Alofono2				.o.
+Consonantizacion      .o.
+Asimilacion7		.o.
+CambioTono12		.o.
+CambioTono13  ;
+
+
+
+
+
+ 
+        regex Gramatica;
+
+
+save stack bzd.autogen.fst
+
+invert net
+
+save stack bzd.automorf.fst
+
+
+hyvästi

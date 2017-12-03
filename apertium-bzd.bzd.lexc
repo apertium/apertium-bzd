@@ -1,0 +1,1757 @@
+Multichar_Symbols  +Sust +Sust^ +SustHum
+
++1Plano +1PPl +1PSg +1PSgD +2P +2Plano +2PSg +3P +3PD +Adj +Adj^ +Adj[interrog] +Adv +Adv[afirmativo] +Adv[allí] +Adv[cantidad] +Adv[comparativo] +Adv[de_vez_en_cuando] +Adv[duda] +Adv[frecuencia] +Adv[interrog] +Adv[Interrog] +Adv[interrog]wé̱jkë +Adv[limitativo] +Adv[lugar] +Adv[modo] +Adv[neg] +Adv[reiterativo] +Adv[tiempo] +Adv[tiempo-lugar] +Alargado +Anterior +Aux +Caus^ +Comp +Conj[adversativa] +Conj[argumentativa] +Conj[copulativa] +Conj[disyuntiva] +Conj[finalidad] +Conj[que] +Conjunto +Cuant +Cuant[alguno(s)] +Cuant[cuánto] +Cuant[mucho(s)] +Cuant[poco] +Cuant[todos] +Cuant[uno] +Cuant[varios] +dë +Dem[abajo_primer_plano] +Dem[abajo_seguno_plano] +Dem[arriba] +Dem[ausente] +Dem[cerca] +Dem[cerca-oyente] +DemClase +Dem[comparativo] +Dem[interrog] +Dem[mismo_nivel] +Dem[solo_escuchado] +Días +Dim +Dir +Dir[ascenso] +Dir[descenso] +Dir[penetración] +Dir[Pl] +Dir[separación] +Dir[valor.puntual] +Edificaciones +Especies +Exc +Frecuencia +Hum +Ideof +Imp1 +Imp1Intran +Imp1Medio^ +Imp1Tran +Imp2 +Imp2Neg +Imperf +ImpFut +ImpFutNeg +ImpPot +Inc +Inf +Int +Inter +Interj +Interj[gracias] +ModoAdvers +ModoConIntr +ModoFin +ModoImp +ModoImpNeg +ModoOpt +Neg +Num(1) +Num(2) +Num(3) +Num(4) +Num(5) +Num(6) +Num(7) +Num(8) +Num(9) +Num(diez) +NumHum +Paquetes +Part +Part[afirmacion-consecuencia] +Part[focalizadora] +Part[pues] +Perf +PerfImp +Peso +Pl +Plano +Posi +Posi[acostado_pl] +Posi[colgando_pl] +Posp +Posp[adyacente] +Posp[ante] +Posp[así] +Posp[comit] +Posp[compañía] +Posp[comparativa] +Posp[con] +Posp[de_lado_de] +Posp[del_lado] +Posp[dö̀] +Posp[donde] +Posp[en_lugar_de] +Posp[Erg] +Posp[exactamente] +Posp[hacia_abajo] +Posp[hacia_acá] +Posp[hacia_allá] +Posp[hacia_arriba] +Posp[hasta-durante] +Posp[junto_a] +Posp[limitativa] +Posp[por] +Posp[semejanza] +Posp[similativa] +Posp[sobre] +Posp[superlativo] +Pron[interrog] +Pron[interrog/indef] +Pron[recíproco] +Pron[todo(s)] +Prosp +Racimos +Redondo +Refl +Suf +Suf^ +Suf[actual] +Suf[Adv] +Suf[afectación] +Suf[anticipativo] +Suf[ascenso] +Suf[Aum] +Suf[de_lado_de/arriba] +Suf[duda] +Suf[finalidad] +Suf[incoativo] +Suf[int] +Suf[iterativo] +Suf[limitativo] +SufLiq +Suf[Pl] +Suf[prontitud] +Suf[redondo] +Suf[referencia] +Suf[reiterativo] +VozMedia
+
+LEXICON  Root
+                                Sustantivos ;   
+                                SustantivosHumanos; 
+                                SustRelacionales;
+                                Demostrativos   ;       
+                                Pronombres  ;       
+                                Posposiciones   ;       
+                                Verbos  ;       
+                                Adjetivos   ;       
+                                Cuantificadores ;
+                                Adverbios   ;
+                                Interjecciones  ;
+                                Posicionales    ;
+                                Conjunciones    ;
+                                Numerales;
+                                Ideofonos;
+
+LEXICON                 SustantivosHumanos
+akë́kë                        SH  ;   !   señor 
+akë́kë:kë́kë            SH  ;   !   señor  
+akë́chke          SH ; !  señor  variante dialectal que se usa en Coroma y el Salitre
+akë́chke:kë́chke          SH ; !  señor  variante dialectal que se usa en Coroma y el Salitre
+alà                            S ;   !   hijo (a), niño (a), sobrino (a) Es uno de los pocos sust humanos que carece de flexión plural 
+!alà:la                            S  ;   !   hijo (a), niño (a), sobrino (a) Es uno de los pocos sust humanos que carece de flexión plural 
+ala'r       S   ;   !   niños, hijos, es el plural de alà
+alàr		S	:	!    espíritus malignos
+akë̀                           SH  ;   !   hermano de mujer
+!akë̀:kë̀                           SH  ;   !   hermano de mujer
+aláköl                        SH  ;   !   mujer 
+a̱mì̱                          SH  ;   !   madre, la forma más habitual es a̱mì̱wö, la cara de mi mamá, es más afectuoso
+mì̱na̱                         SH  ;   ! mamá. Forma observada en el bribri de Coroma
+awá                            SH  ;   !   suquia
+awá:awé                   SH  ;   !   forma de referencia particularizada de awá 'suquia'
+balë'                      SH  ;   !   gente 
+!balë́kë                  SH  ;   !  forma no documentada, radical de balë́këpa
+bikâkala                   SH  ;   !   maestro de ceremonia
+bulu'                       SH      ;   ! jefe, cacique, rey.  Por analogía: persona adinerada, turista.  
+bùsi           SH  ;   !   mujer adolescente
+dawa'                       SH  ;   !   cuñado
+dawa':dawé         SH  ;   !    forma de referencia particularizada de dawa' 'cuñado'
+dawö'                      SH  ;   !   primo o prima cruzados, novio, novia
+dë'ù̱ntu                  SH  ;   ! Préstamo finado, fallecido
+kabë̀                      SH  ;   !   muchaho, adolescente
+kirë̀rma̱                  SH  ;   !    extranjero, persona no indígena
+kutà                       SH  ;   !   hermana de hombre
+mò̱so                      SH  ;   !   compañero, cónyugue, peón
+mà̱so                      SH  ;   !   compañero, cónyugue, peón Variante
+na̱ù̱                          SH  ;   !   tío materno
+na̱ú̱yöm                  SH  ;   !   sobrino (a)
+apë'                       SH  ;   ! gente
+!apë':pë'                  SH  ;   ! gente
+sìkua                      SH  ;   !  no indígena, extranjero
+wë́m                       SH  ;   !   hombre, marido
+yàmi̱                      SH  ;   !   amigo, pariente
+yàk                        SH  ;   !   suegra, nuera
+yë́                            SH  ;   !   padre
+yë́ria                     SH  ;   !   cazador
+yë̀ña̱						SH  ;  ! chiquillos
+!wák                            SH  ;   !   1. clase humana: dueño, gentilicio . 2   condición,  aspecto
+!wák:wak                SH  ;   !   1. clase humana: dueño,  gentilicio.  2. condición,  aspecto 
+se'                         S       ;   !  persona
+bë̀sulu                    SH  ;   ! muchacho
+bë̀tsu                     SH  ;   ! muchacho. Variante de Coroma
+òka̱ma̱                    S  ; ! divinidad titular de los blancos
+        
+LEXICON                 SH          
++SustHum:0          Num ;       
++SustHum^:0     SustantivosHumanos      ;   
++SustHum^:0     SustRelacionales        ;                   
+ +SustHum^:0     Numerales        ;                   
+                 
+                   
+                
+LEXICON             Num         
++Pl:pa                      PospErgativo    ;       
+                                Dim     ;   !   Según Constenla (1998) si el tópico de la oración expresa la idea de pluralidad, el sustantivo recibe opcionalmente la flexión plural, si el tópico no la expresa, el sustantivo si pertenece a la clase de los humanos, sí emplea   -pa
+            
+
+
+LEXICON             NumCabecar
++Pl:wá                 Dim ;  ! sufijo plurizador usado en el bribri de Coroma, es de origen cabécar. (Margery, 2003, p.334)   
+
+
+                
+LEXICON                 PospErgativo
++Posp:r                 #           ;
+                                Dim     ;
+
+LEXICON Ideofonos
++Ideof:òëòë         #       ;   
++Ideof:kókó           #       ;
++Ideof:mi̱lí̱s         #       ;
++Ideof:alâlâlâ       #           ;
+
+LEXICON Conjunciones
++Conj[que]:tö                                              #   ;   ! Conjunción, 'que'
++Conj[adversativa]:êrë                                            #   ;   !   Conjunción, 'pero'
++Conj[copulativa]:e̱na̱                                                 #   ;   !   Conjunción 'y'
++Conj[adversativa]:e'rë                                            #   ;   !   Conjunción, 'pero'
++Conj[adversativa]:erë                                         #   ;   !   Conjunción, 'pero'
++Conj[finalidad]:à̱s                                       #   ;   !   Conjunción, 'para que'  'a fin de que'
++Conj[finalidad]:i̱à̱na̱                       #   ;   ! Conjunción no documentada, expresa finalidad
++Part[afirmacion-consecuencia]:e̱ma̱    #   ;   ! Partícula de consecuencia posible, 'en consecuencia' 'como resultado' 'entonces' (ortografía de Constenla, 1998)
++Part[afirmacion-consecuencia]:é̱ma̱   #   ;   ! Partícula de consecuencia posible, 'en consecuencia' 'como resultado' (Margery 1996) (Colaborador Franklin Morales)
++Part[afirmacion-consecuencia]:e̱me̱    #   ;   ! Partícula de consecuencia posible, 'en consecuencia' 'como resultado' (Margery 1996) (Colaborador Franklin Morales)
++Conj[disyuntiva]:ö                                                            #   ;   !   Conjunción optativa, préstamo del español
+!+Part:pa                                                       #   ;   ! Ej:  tsîrëpa  'un momentito'  bulèpa  al parecer se usa para evitar la reduplicación
++Conj[argumentativa]:wake'                      #       ;   ! Conjunción no documentada. Se utiliza para introducir o concluir un argumento    'de todas maneras' 'de todos modos' expresión de un tipo de necesidad
+
+
+LEXICON Interjecciones
++Interj:à̱a̱                               # ; !   Interjección, 'ah'
++Interj:à                                  #   ;   !   Interjección, 'oh'  (inicia obligatoriamente las expresiones vocativas)
++Interj:à̱                                 #   ;   !   Interjección, 'oh'  (inicia obligatoriamente las expresiones vocativas)
+!+Interj:á̱jà̱                                #   ;   ! 
++Interj:barö́r                         # ;     ! Interjección 'quién sabe'
++Interj[gracias]:wë'ste        Dim     ;       ! Interjección 'gracias'
++Interj[gracias]:wë̂ste        Dim     ;       ! Interjección 'gracias'
++Interj:ma̱                             #   ;   !   Interjección
++Interj:ujú                                #   ;   ! Interjección
++Interj:ajá                            #   ;   ! Interjección
++Interj:á̱jà̱                             #   ;   ! Interjección  ! Comunicación personal Julio Morales Campos
++Interj:me̱                             #   ;   !   Interjección
++Interj:ike SufijosVerbales ;   !   Interjección tome, tenga
++Interj:íkë   SufijosVerbales ;   !   Interjección tome, tenga (Margery 1996)
++Interj:é                                  #   ;
++Interj:u                               #   ;
++Interj:àta                                #   ;   !  Interjección vocativa oral (Comunicación Personal Julio Morales)
++Interj:u̱jú̱                              #   ;   ! Interjección
++Inter:ö̀pa                                    #  ; ! Interjección
++Interj:ké								#		;  ! Interjección
++Interj:u̱'ù̱									#  ; ! Interjección
++Interj:u̱'u̱									#  ; ! Interjección
+
+LEXICON Posicionales
++Posi:mé̱r         Direccionales       ;   !  Posicional.  Se aplica a algo que está  sobre algo o apoyado o sentado, por ejemplo en una cama, rama
++Posi:tkë'se̱      SufijosVerbales     ;   !   Posicional. Sinónimo de tkë'r  'estar sentado'
++Posi:tkë'rse̱     #                               ;   !   Posicional. Sinónimo de tkë'r  'estar sentado' Coroma
++Posi:âr               #                               ;   ! Posicional.  Se aplica a algo  que está suspendido o colgando. Margery (1986) 
++Posi:a'r               #                               ;   ! Posicional.  Se aplica a algo  que está suspendido o colgando. Constenla (1998)
++Posi:ár               #                               ;   ! Posicional.  Se aplica a algo  que está suspendido o colgando.  Maestros bribris, comunicación personal.
++Posi:áni̱k            #                               ;   ! Posicional.  Se aplica a algo  que está suspendido o colgando.  Maestros bribris, comunicación personal.
++Posi:te̱n          #                               ;   ! Posicional. Metido
+̂+Posi:té̱rse̱     #                               ;   ! Posicional. Estar metido
++Posi:të'r         #                               ;   ! Posicional, estar acostado solo en caso de animales, con los objetos  es de uso general, no especifíca la posición solo la existencia
++Posi:tër         #                               ;   ! Posicional, estar acostado solo en caso de animales, con los objetos  es de uso general, no especifíca la posición solo la existencia
++Posi[acostado_pl]:tkë'te̱r        #   ;   ! Posicional referido a objetos o animales que están acostados, o los ríos  que son largo y están abajo
++Aux:mô̱           #                               ;   ! Auxiliar de algunos posicionales      
++Posi:tkë'r        Direccionales       ;   ! Posicional, estar sentado (ortografía de Constenla, 1998)
++Posi:tkër             Direccionales       ;   ! Posicional, estar sentado
++Posi:tulúr        Direccionales       ;   ! Sentados,  clavados, metidos  
++Posi:tulúrse̱ Direccionales       ;   ! Asentados, metidos
++Posi[colgando_pl]:tkë'ni̱k        Direccionales  ;    ! colgando, posicional plural
++Posi:dur				#					;	! Posicional.  Estar de pie
+
+
+                
+LEXICON Numerales
+
+ +NumHum:ë́l                                               Clases  ;   
++Num(1)+Hum:e'köl          Dim     ;   
++Num(1):e'                          Clases  ;   !   Numeral uno 
++Num(1):é                          Clases  ;   !   Numeral uno (Margery 1996  usa la marca de tono ascendente en lugar del saltillo)
++Num(2):bö́                            Clases  ;   !   Numeral dos 
++Num(2):bö̀                            Clases  ;   !   Numeral dos     
++Num(3):ma̱ñá̱                     Clases  ;   !   Numeral tres
++Num(3):ma̱ñà̱                     Clases  ;   !   Numeral tres
++Num(3)+Redondo:ma̱ñá̱l        Dim         ;   ! No existe la forma ma̱ñá̱k para la clase redonda, para especificar que el objeto es redondo se usa la mima terminación de la clase humana  -l
++Num(4):tkë́                           ClasesNumerales     ;   
++Num(4):tkë̀                           ClasesNumerales     ;   
++Num(5):skè̱                           ClasesNumerales     ;
++Num(5):ské̱                           ClasesNumerales     ;
++Num(6):tèr                            ClasesNumeralesIrregulares      ;
++Num(6):tér                            ClasesNumeralesIrregulares      ;
++Num(6):tèktö                     Alargado    ;
++Num(7):kú                             ClasesNumerales ;
++Num(7):kù                             ClasesNumerales  ;
++Num(7):kùktö                     Alargado        ;     
++Num(8):pàköl                     SufijosClases   ;
++Num(8):pàktö                     Alargado        ;
++Num(9):su̱lì̱tu                       #   ;
++Num(9):su̱lì̱tú                      ClasesNumerales     ;
++Num(9):su̱lì̱tö                      Alargado  ;
++Num(diez):dabòm               SufijosClases ;
++Num(diez):dabòtö             Alargado  ;
+
+
++Cuant:bí              Clases  ;
++Cuant:bì              Clases  ;
+
+
+LEXICON ClasesNumerales
+
++Conjunto:yök      Dim   ;
+0:l                         SufijosClases   ;   !
+0:t                         SufijosClases   ;   !   Sufijo clase plana ( muchos hablantes simplifican tk -> t  cuando no se añade ningún sufijo)
+0:tö                           Alargado            ;   !       
+                        
+                                                    
+LEXICON ClasesNumeralesIrregulares
+
++Conjunto:yök      Dim                 ;
+0:öl                           SufijosClases   ;
++Días:ik                    Dim                     ;   !   Sufijo que indica días, se debe mejorar y analizar
+0:t                         SufijosClases   ;
+                            
+
+
+LEXICON   SufijosClases
+
++Conjunto:yök              Dim ;
++Paquetes:kuak          Dim ;   ! Sufijo referido a paquetes,  de acuerdo con Margery (el morfema puede ser -kuak  o  tk̂ + uak,   plano + paquete)
++Edificaciones:kue      Dim ;   ! Sufijo referido a edificaciones según Constenla
++Edificaciones:tkue     Dim ;
++Racimos:tsa̱k              Dim ;   !   Sufijo clase racimos, homófona de la posposición tsa̱k sobre a horcajadas, sin hacer contacto
++Peso:ka                            Dim ;   ! Sufijo referido al peso, libras, kilos etc.
++Especies:të                   Dim     ;   ! Sufijo clase de especies
+                                        Dim         ;
+
+
+LEXICON Clases
+
++Plano:tk                       Dim         ;   !   Sufijo clase plana
+!+Plano:t                            SufijosClases;  !   Sufijo clase plana ( muchos hablantes simplifican tk -> t  cuando no se añade ningún sufijo)
++Plano:t                            Dim ;  !   Sufijo clase plana ( muchos hablantes simplifican tk -> t  cuando no se añade ningún sufijo)
++Redondo:k                  Dim         ;   !   Sufijo clase redonda
++Redondo:ka                 Dim         ;   !   Sufijo clase redonda. Variante de Coroma
+0:tö                   Alargado        ;   !   
++Conjunto:yök              Dim                     ;
++Hum:l      Dim                             ;   !   Sufijo clase humana
+0:l     SufijosClases                           ;   
+!+Hum:l     SufijosClases                           ;  ! Agrego esta línea para poder analizar ë́ltë     'generación humana'  
+                    Dim  ;
+                
+LEXICON Alargado    
+
++Alargado:m                     #           ;   !   Sufijo clase alargada
++Frecuencia:kicha           #           ;   !   Forma lexicalizada de adverbios de frecuencia.
+
+                
+                
+LEXICON     Sustantivos
+alò                S   ;   !   un tipo de palma que se encuentra en la costa, antiguamente se forraba con ese material, es más resistente que la chonta y la jira
+àba                S   ;   !   un tipo de canasto
+abá                S   ;   !   ¿piña?
+abë̀               S   ;   !   golondrina
+aë̀                S   ;   !   vergüenza
+ai'             S   ;   !   sainillo
+aìbalo     S   ;   !   jengibre
+daláshá   S   ;   ! jengibre, Coroma, Cabécar
+daláshá:dláshá  S   ;   ! jengibre, Coroma, Cabécar
+àlim		S	;	! reumatismo
+ajkà           S   ;   !   nombre 
+ajkö́          S   ;   !   canasta
+ajkö̀          S   ;   !   boca, borde, orilla
+ajkë́		S  ; !  mezquindad
+ák             S   ;   !   piedra
+akájtö        S   ;   !   cielo raso
+ák:ék         S   ;   !   forma de referencia particularizada de ák 'piedra'
+àk             S   ;   !   robo
+àk:ék         S   ;   !   forma de referencia particularizada de àk 'robo'
+á̱k                S   ;   !   mejilla
+ako̱'           S   ;   !   cama, tapezo, pared, armazón
+àl             S   ;   !   almendro
+alá                S   ;   !   trueno
+ala'                S   ;   !   olor
+alabà          S   ;   !   camote
+aláki          S   ;   !   hembra
+a̱lé̱              S   ;   !   taltuza
+a̱lò̱              S   ;   !   chicha de maíz (Coroma, Alto Urén, Katsi)
+a̱là̱              S   ;   !   chicha de maíz (Amubre,  Alto Lari, Cachabri)
+a̱lo̱'              S   ;   ! jira  
+a̱lo̱':a̱la̱'       S   ;   ! jira  
+alö̀buk        S   ;   !   tolomuco, chulomuco * (Eira barbara)
+ali'                S   ;   !   yuca. En el habla simbólica se refiere a los peces
+a̱mo̱'          S   ;   !   aguacate
+Amubri      S   ;   !  topónimo hispanizado
+Coroma    S  ; !   topónimo hispanizado
+apà                S   ;   !   cuerpo
+apà:apá                S   ;   !   cuerpo
+!apà:pà               S   ;   !   cuerpo
+apì                S   ;   !   ayote
+àrros          S   ;   !   arroz
+átu                S   ;   !   frijoles
+awà            S   ;   !   nutria (Lontra longicaudis)
+bàka           S   ;   !   vaca
+bacha'      S   ;   !  'zarza' es un tipo de planta, se aprovecha la raíz y las hojas
+bakali'     S   ;   !   zorro
+balo':balo  S   ;   !   chicha
+balo'           S   ;   !   chicha
+balòyö́m  S   ;   !   poró
+balí               S   ;   !   hambre
+basù           S   ;   !   lanza
+batsé			S	;	! ayuno
+bë́                S   ;   !   demonio, diablo
+bèk                S   ;   !   palo de mayo
+bë̀kuö        S   ;   ! estrella
+bikalâ     S   ;   !   ?
+bika'			S ; !  una clase de canasta usada por los suquias para guardar sus objetos
+bika':biké			S ; !  forma de referencia particularizada de bika'  una clase de canasta usada por los suquias para guardar sus objetos
+birè           S   ;   !   tamagá
+bís                S   ;   !   cabuya
+bità̱              S   ;   !   ardilla
+bö'                S   ;   !   leña, fuego
+bö':bö́           S   ;   !   con el sufijo wö significa  luz
+brìbri         SH  ;   !   bribri, 1) Gentilicio  2) Lugar ubicado en las cabeceras de los ríos
+brìbri:bribri      SH  ;   
+buë'           S   ;   !   tiquisque
+bukë'          S   ;   !   ranas y sapos
+buà                S   ;   ! iguana    
+bukë':bukë        S   ;   !   forma relacional de bukë' 'ranas y sapos'
+bùlña̱         S   ;   !   cera, candela
+bulùr          S   ;   !   armadillo hediondo
+bùl                S   ;   !   abeja. sorb́́́ón (tipo de baile indígena)
+bulù				S	;	! dueño u origen de las enfermedades
+bukulú			S	;	! tabú			
+cha̱mù̱        S   ;   !   musácea
+cha̱mù̱:cha̱mú̱       S   ;   !   musácea
+chi̱'               S   ;   !   ? hacer consulta
+chìchi     S   ;   !   perro  
+chakö̀         S   ;   !   comida
+chakè          S   ;  ! comida   ¿Referencia particularizada de chakö̀?
+cha̱né̱        S   ;   !   costillas
+chalé          S   ;   !   armazón, esqueleto  En el diccionario aparece  con nasal, según Julio es oral
+chalé̱         S   ;   !   astilla
+shalë̀         S   ;   ! cornamenta. No documentado
+chìrwak        S   ;   !   hormiga arriera
+dakarò     S   ;   !   gallina
+dakarò:karò       S   ;   !   gallina
+dakòlum    S   ;   !   puma, león de montaña (puma concolor)
+dalì               S   ;   !   carga, mercancía
+dalö̀          S   ;   !   miedo, respeto
+datsi'          S   ;   !   vestido
+duà:dawà  S   ;   !   tabaco, ingrediente
+duà                S   ;   !   tabaco, ingrediente
+dawás      S   ;   !   año
+dawè           S   ;   !   enfermedad
+dawë́          S   ;   !   pavo de montaña  
+dayë̀          S   ;   !   mar
+di'ye           S   ;   !   bebida
+dìba           S   ;   !   calor del sol
+dikó           S   ;   !   pejibaye
+dikì̱              S   ;   !   parte inferior de los objetos
+dikì̱:diki̱              S   ;   !   parte inferior de los objetos
+ditsö̀         S   ;   !   raza,clan
+ditsö̀:ditsé  S   ;   !   forma de referencia particularizada de ditsö̀ 
+diché          S   ;   !   fuerza, resistencia
+dö́                S   ;   !   barro
+Dòyöm     S   ;   !   río Grande de Térraba
+dù             S   ;   !   aves
+dúk                S   ;   !   cambute
+dulë̀          S   ;   !   un tipo de baile
+dipö̀           S ;   !    poza  laguna       
+ë́l                S   ;   !   prima
+é̱n                S   ;   !   hígado
+ikuö̀          S   ;   !   maíz (elote o grano) 
+i̱ma̱k          S   ;   !   comadreja (mustela frenata)
+inú̱köl       S   ;   !   dinero
+inú̱köl:i̱nú̱köl        S   ;   !   dinero
+i̱ña̱'              S   ;   !   tamal
+íyi                S   ;   !   cosa
+íyök          S   ;   !   tierra
+ìriria         S   ;   !  tierra
+iki'			S ; ! sarna
+irö̀			S ; ! gavilán norteño
+ichö́li            S ; ! vómito. También  es el nombre en bribri del río Yorkín. (Posiblemente la etimología es shôri)
+tsukú       S  ; ! hidropónimo, río que nace en Alto Urén  
+ká̱                S   ;   !   lugar, espacio, país, tiempo, día 
+ká̱:ké̱           S   ;   !   forma de referencia particularizada de ká̱ 'lugar, espacio, tiempo, país, día'
+ká̱:kà̱               S   ;   !   lugar, espacio, país, tiempo, día (Se observa cambio de tono en la forma kà̱jtö  'cielo')
+ká̱:kó̱               S   ;   !   lugar, espacio, país, tiempo, día (Se observa en expresiones como kó̱ kò̱s  usada en el Pacífico, en el diccionario está unida, pero nuestros informantes la separan)
+kabàiö        S   ;   !   caballo
+kapè				S	;	! sueño (preguntar por esta entrada)
+kapö'				S ; ! 
+kapö́li        S  ;   !  medicina
+kapö̀          S   ;   ! helecho de rabo de mico
+kapö̀:kapö́           S   ;   ! helecho de rabo de mico
+kacha'      S   ;   !   achiote
+kachúk     S   ;   !   martilla  (Potos flavus)
+kaè                S   ;   !   mantis
+kaë̀               S   ;   !   pava negra, en el habla simbólica se refiere al pejivalle
+kàl                S   ;   !   árbol, palo, bordón
+kàl:kél       S   ;   !   forma de referencia particularizada de kàl  'palo, bordón, árbol'
+kalâts         S   ;   !   dedos
+kà̱li̱             S   ;   !   lluvia
+kalö̀          S   ;   !   pie, tronco, mata
+kalòk          S   ;   !   mapache
+kalö́m     S   ;   !   plátano
+kalô           S   ;   !   gemelo
+ka̱nè̱         S   ;   !   trabajo
+kë'köl        S   ;   ! un tipo de bastón usado por los suquias
+ka̱no̱'         S   ;   !   tepezcuintle (Agouti paca)
+ka̱ñí̱k            S   ;   !   selva
+ká̱rki̱            S   ;   !   bosque No esta documentado en el diccionario de Margery
+kápi           S   ;   !   mata del café
+kàsir          S   ;   !   saíno
+kukö̀          S   ;   ! oreja
+ku'             S   ;   ! lengua
+ku':kû     S   ;   ! lengua
+kù			S	;   ! pájaro danto (Cephalotperus glabricollis)
+kayö́          S   ;   ! perico zapayol
+Kàrbli     S   ;   ! Nombre de un río cerca de Alto Urén
+Kàmu̱k     S   ;   ! Nombre de un cerro de Talamanca
+kiè                S   ;   !   nombre.  Según Petronila  en Coroma apellido se dice kièbatà, también en el diccionario de Margery se registra para el bribri de Salitre
+kipö̀          S   ;   !   hamaca
+kirë̀          S   ;   !   lagartija
+kö̀chi         S   ;   !   chancho
+kö̀wö         S   ;   !   columna vertebral
+kú̱                S   ;   !   piojo
+Kua'rö     S   ;   !   Buenos Aires
+ká̱wak     S   ;   !  referido a animales u objetos de forma despreciativa
+kua'            S   ;   !   caña brava, caña blanca
+kua'köl        S   ;   !   caña brava, caña blanca
+kua'böt        S   ;       lanza
+kuë̀               S   ;   !   tortuga
+Ku̱é̱i̱            S   ;   !   Top. río Coén
+ku̱é̱i̱            S   ;   !   Top. río Coén
+kùksu̱          S   ;   !   mano de piedra
+kula'           S   ;   !   asiento
+kulë'          S   ;   !   batea
+kuli'           S   ;   !   cuello
+ma̱'ma̱     S   ;   !   juguete
+ma̱lé̱k        S   ;   !   órgano sexual masculino
+ma̱lé̱           S  ; ! Gramaticalización del sufijo ma̱le̱ que se agrega a la flexión de ciertos verbos para indicar aspecto reiterativo
+mè̱sa          S   ;   !   prest. Mesa
+mì̱chi         S   ;   !   gato
+mó̱köl        S   ;   !   rifle
+mu̱lé̱         S  ;   !    polvillo de cualquier sustancia
+mu̱lù̱sik      S   ;   !   bijagua
+mu̱lû̱  	S		;	! tipo de pez denominado lisa (Mugil cephalus)
+dakòl	S	;	! sardina	
+wàtak  S	;	! sábalo
+bulë̀r		S	;	olomina
+ttö̂		S	;  parte superior interna de algo
+ùyöm	S	;  un lugar en las montañas de Talamanca, también se refiere a las montañas en general
+mò̱                S   ;   !   nube, neblina
+na̱i̱'              S   ;   !   danta
+ni̱mà̱         S   ;   !   peces
+ni̱mà̱:ni̱mé̱ S    ;  !   referencia particularizada de ni̱mà̱ 'pez' 
+na̱mù̱             S   ;   !   felinos
+na̱mù̱:na̱mu̱  S   ;   !   forma relacional  de na̱mù̱ 'felino'.
+na̱mù̱:na̱mé̱ S   ;   !   referencia particularizada de na̱mù̱, 'felino'
+na̱mù̱:na̱me̱  S   ;   !   forma relacional de  na̱mé̱ referencia particularizada de na̱mù̱ 'felino'.
+na̱mà̱				S		;	! felino, cabécar
+Na̱mà̱söl		S  ; ! cerro del felino (cabécar)
+ña̱là̱             S   ;   !   camino
+ña̱là̱:ña̱lé̱ S   ;   !   forma de referencia particularizada de ña̱là̱ 'camino'
+ñá̱k               S   ;   !   bocana, desembocadura de un río, nalga
+nú̱                S   ;   !  cadáver, carroña, actualmente se usa para significar   cariño, pero debe llevar el diminutivo 'la'
+o'              S   ;   !   hacha
+óköm          SH  ;   ! Es lapersona encargada de llevar a cabo los ritos funerales.
+ö̀k                S       ;   ! mono cariblanco
+ö̀k:ö́k           S   ;   !   forma de referencia particularizada de ö̀k 'mono cariblanco'
+ö̀kio          S   ;   !   olingo (Bassaricyon gabbii )
+ö̀nu̱              S   ;   !   grisón
+pà             S   ;   ! lapa verde
+ku̱ka̱'    S 	;	 	! lapa roja
+píska          S   ;   !   escalera
+pú̱                S   ;   !   águila, gavilán
+pulí           S   ;   !   ceiba
+pûs                S   ;   !   gato
+pík             S     ;  ! ala
+pë́                S       ;   ! sangre 
+pulë̀			S		; ! concha, caracol
+sàl                S   ;   !   mono colorado
+sàrkalo        S   ;   !   araña picacaballo
+sawák      S   ;   !   chayote
+sawë́      S   ;   !   conejo
+sawi'       S   ;   !   algodón
+si̱wa̱'       S  ;  !   aire, viento 
+së̀rkë        S   ;   !   tormenta
+së́                S   ;   !   poste, horcón. Nombre de una clase de pájaro
+sha         S   ;   !   nombre propio de una planta y paso a  ser el nombre de una quebrada
+shka̱me̱'   S   ;   !   arco
+shulë̀     S   ;   !   guatusa
+shaka̱lá̱  S   ;   ! humo
+!shaka̱lá̱:shka̱lá̱       S   ;   ! humo
+si'         S   ;   !   mes
+si':sí     S   ;   !   mes
+Sibö̀      S   ;   !   Dios bribri
+si̱ni̱'     S   ;   !   chancho de monte
+si̱nà̱		S	;	!  perica ligera
+si̱ná̱r		S	;	! hortiga
+si̱nà̱s     S   ;  !  un tipo de planta
+sìtla		S ; !  cólico en habla ritual
+sku'        S   ;   !   bolso de red pequeño
+skuë̀      S   ;   !   ratón
+skuë̀:skuë    S   ;   !   forma relacional de skuë̀ 'ratones'
+ská̱mo̱köl    S   ;   ! Cerbata ¿se' ká̱ mó̱köl ?
+Sulàyöm   S   ;   ! Lugar sagrado, donde nacieron los bribri  
+só         S   ;   !   cucaracha
+sö̀k           S   ;   !   sabana, zacate
+sóköl     S   ;   !   escudo
+stsa'       S   ;   !   bejuco, cuerda
+stsa':stsâ     S   ;   !   bejuco, cuerda
+stsa̱'      S   ;   !   arena
+stsí           S   ;   !   pizote
+sù         S   ;   !   puercoespín
+sûbök     S   ;   !   culebra ciega
+sukula'     S   ;   !   yiso
+Sula'       S   ;   !   El artesano, deidad  que según la mitología bribri vive debajo de la tierra
+sulë̀      S   ;   !   flecha de pescar
+su̱lì̱         S   ;   !   venado
+akë́köl S  ;  !  rey  o dueño 
+ akë́köl:kë́köl S  ;  !  rey  o dueño 
+su̱lì̱:su̱li̱      S   ;   !   forma relacional de su̱lì̱ 'venado'
+tabè       S   ;   !   machete
+Talìri     S   ;   !   río Sixaola
+talók      S   ;   !   lagarto
+tawàlia        S   ;   !   catarro
+tàyë      S   ;   !   señora, esposa
+ta̱ù̱          S   ;   !  joyas
+ták            S   ;   ! pedazo (s) 
+të̀            S   ;   !   terreno, campo
+tkabë̀     S   ;   !   nombre genérico
+tsà̱           S   ;   !   cabellera
+tsa̱nè̱        S   ;   !    pájaro carpintero
+tsa̱nè̱:tsa̱ne̱    S   ;   !    forma relacional de tsa̱nè̱ 'ṕajaro carpintero'
+tsawì      S   ;   !   armadillo
+!tsí           S   ;   !   pizote
+tsì̱           S   ;   !   espalda
+tsì̱:tsî̱           S   ;   !   espalda
+tsi̱nì̱        S   ;   !   árbol de hule
+tsiru'      S   ;   !   cacao
+tsiru':tsirû   S   ;   ! 
+tsu'            S   ;   !   teta
+tsulë'     S       ;   !       árbol de manu
+tsule'		S			;	! broma, vulgaridad
+!tsû           S   ;   !   teta
+Tsu'ku  S   ;   !   Nombre de un lugar
+ttö̀           S   ;   ! Superficie superior interna, generalmente cóncava, como el paladar, la palma de la mano, etc.
+tsiö̀          S   ;   !   quioro
+úk         S   ;   !   madriguera, cueva
+ukö̀           S   ;   ! pedazo
+ulù            S   ;   !   tronco de balsa con pictogramas
+ujté       S   ;   !   referencia, dato, testimonio, ley, temas  ¿Referencia particularizada de ujtö̀?
+ujté:ujtè     S   ;   !   referencia, dato, testimonio, ley, temas  ¿Referencia particularizada de ujtö̀?. Ortografía de Franklin y Laudencio, tono alto
+ujtö̀      S   ;   !   palabra, idioma
+urrì       S   ;   !   oso
+urrì:urri  S   ;   !   forma relacional de urrì 'osos'
+U̱lé̱          S   ;   !   Río Urén        
+ùsh                S   ;   ! basura
+újkö      S   ;   ! puerta, patio
+wa'         S   ;   !   zorro hediondo
+wìm        S   ;   !   mono congo
+wìm:wì̱m        S   ;   !   mono congo
+wàpie	S	;	! compañero
+wö̀a       S   ;   !   color
+wö̀shki    S   ;   ! rollo
+wì         S   ;   ! parte de abajo del tronco
+ya'         S   ;   !   molejón (piedra de afilar) 
+yë̀chàwa  S   ;   !   zorro cuatro ojos
+!yë̀ña̱			S	;	! niño(a)  (peyorativo)
+yík    S       ;   !  naríz
+yë́jkuö   S   ;   ! papel
+yàli           SNum ;   ! expresión que usa cuando un hablante no recuerda el nombre de una cosa
+yàli:ya'li           SNum ;   ! expresión que usa cuando un hablante no recuerda el nombre de una cosa (Julio Morales, comunicación personal)
+diö́köl       S   ;   !   sombra, pintura, foto, figura
+dìwö      S   ;   !   sol, día, hora
+dìwö:díwö   S   ;   !   froma de referencia particularizada de dìwö 'sol'
+dìwösa̱wo̱    S   ;   !   reloj
+alówa      S   ;   !   guabo, machete
+stsa'wö        S   ;   !   letra, nudo
+ù          S   ;   !   casa
+wë̂ñe̱     S   ;   !   ¿macho? según Margery es un adjetivo o una expresión
+wö́kir     S   ;   !   cabeza              
+diö̀           S   ;   !   jugo, savia, líquido    
+ö̀kö          S   ;   ! mojoso (masa de maíz usada para fermentar la chicha)
+ó              S   ;   ! impureza, tabú
+kèrwa      S   ;   !  piedra en habla ritual
+sé̱n               S   ; ! clase de maíz de color blanco
+mu̱lú̱         S   ;   !  clase de maíz de color rojo
+yulár          S   ;   ! masa de maíz tierno, atol de maíz        
+ô̱ka               S   ;   ! no parientes ni familiares                
+ù̱                 S   ;   ! olla              
+pòporo S   ;   ! préstamo del español fósforo. Los bribris articularon el sonido labiodental como bilabial             
+kala'       S   ;   ! bolso, red, chácara               
+dalë́r         S ;  ! dolor  posiblemente sea el imperfecto medio
+!dalë́         S ;  ! dolor (preguntar si existe como sustantivo)
+kiö̀               S   ;   ! aceite, grasa, manteca
+yilì               S   ;   ! las siete cabritas        
+o̱'                 S   ;   ! la parte gruesa de un cuerpo  
+mu̱lù̱         S   ;   ! ceniza
+wö̂rkua       S    ;   ! flor
+dóli               S   ;   !  caraña, árbol de la familia de las burseráceas
+itö̀               S   ;   ! huella, rastro
+tsalá      S   ;   !  plátano
+páköl S   ;   ! caña de azúcar
+pàtu   S   ;   ! préstamo del español 'pato'
+biyö̀  S   ;   ! aviso, noticia
+shá̱mé̱   S   ;   !  pedazo
+bàk                S   ;   ! paquete
+é̱n                S  ; !  hígado
+wíköl     S   ;   !  alma, espíritu
+bâ             S   ;   !  el calor de  algo
+bâ:bá             S   ;   ! 
+túkir          S   ;   ! punta, extremo
+chakà      S   ;   !   carne
+!chakà:chkà   S   ;   !
+!chakà:chkà   S   ;   !   forma relacional de chkà 'carne'
+balë́          S   ;   ! depresión de un terreno, barranco, guindo
+ulà            S   ;   !   mano, rama  
+ulâts          S   ;   ! dedos 
+ulâts:uléts  S    ;   ! forma de referencia particularizada de ulàts 'dedos'     
+ulâts:uláts   S   ;   ! 
+!ulâts:ulàts  S   ;
+kuá            S   ;   !   mata, semilla 
+kö̀            S   ;       !   hoja, vello, pelo, pluma  
+wà         S   ;   !   contenido de cualquier cosa, significado de las palabras
+wák    S   ;       !   forma relacional de wák 1. condición,  aspecto  
+ajkuö̀     S   ;   !   piel, cuero
+ajkuö̀:ajkuö́     S   ;   !   piel, cuero
+ajkuö̀:ajkué  S   ;   !   forma de  referencia particularizada de ajkuö̀ 'piel'
+jtö̀                   S   ;   ! superficie superior cóncava,  interior de un espacio, lugar, ej: casa, canasta
+kichà      S   ;   !   cuerda, soga
+shù̱           S   ;   !   parte de adentro
+wö̀            S   ;   !   cara, fruta
+stsè               S   ;   ! canción
+stsè:stsé             S   ;   ! canción, canto, forma de referencia particularizada de stsè
+sí                 S   ;   ! seco, kàl síë̀  No admite intensificador, di' sí pô pero ie' dör síie
+icha        S   ;   !   propiedad,  pertenencia
+má̱            S   ;   ! alimento tanto para humanos como para animales
+wíwi       S   ;   ! cerdo  procede del ideófono wíwi     
+tak         S   ;   !  cualquier trozo o fragmento de algo
+wö́löm        S       ;   ! un pedazo o trozo alargado    
+sík                S       ;   ! hojas de  árbol (Coroma).
+balà           S   ;   !   clase redonda, parte substanciosa de un fruto o un árbol,  por ejemplo el corazón del árbol
+ñá̱                    S   ;   !   excremento          
+di'             S   ;   !   agua, río
+akà            S   ;   ! diente, filo, pico    
+batà       S   ;   !   punta, extremo 
+yawi'       S   ;   ! cangrejo
+yàli        S  ;  !  algo de poca importancia. Se usa cuando el hablante no recuerda el nombre de algo
+a̱mù̱      S   ;   ! pita, cáñamo
+Amù̱bli  S ; !  Topónimo 
+sí̱            S ; !  palmito  
+dapö̀		S	;	! tipo de palmito
+shirë́		S ; !  un tipo de planta,   pasmo (Miconia impetiolaris)
+klò			S ; ! anisillo (Piper auritum)
+shu̱lé̱		S ; !  árbol de guayabo
+satë̀		S ; ! un tipo de discurso empleado por el bikakala
+katà        S   ;   !   Apoyo, ej katàblë' 'establecerse'  
+
+
+LEXICON     SustRelacionales        !   También Constenla (1998)  los llama inalienables
+batà   S   ;   !   forma relacional de batà 'punta, extremo'
+bâ:ba              S   ;   ! forma relacional  que significa el calor de  algo
+!bàn                   S   ;   ! ¿selva o montaña? Confirmar la forma léxica con Franklin.  En el diccionario aparece también como adverbio
+túkir:tukir        S   ;   ! punta, extremo    
+chakà:chaka    S   ;   !   forma relacional de chkà 'carne'
+balë́:balë            S   ;   ! depresión de un terreno, barranco, guindo
+ulà:ula        S   ;   !   forma relacional de ulà 'mano, rama'
+kö̀:kö        S   ;       !   forma relacional de kö̀ 'hoja, vello, pelo, pluma'
+kuá:kua        S   ;   !   forma relacional de kuá 'mata, semilla' 
+wà:wa      S   ;   !   forma relacional de wà 'contenido de cualquier cosa, significado de las palabras'
+wák:wak    S   ;       !   forma relacional de wák 1. condición,  aspecto  
+ajkuö̀:ajkuö  S   ;   !   forma relacional de  ajkuö̀ 'piel, cuero'
+ajkuö̀:ajkue   S   ;   !   forma relacional de ajkué referencia particularizada de ajkuö̀ 'piel'.
+!ajkuö̀:jkuö̀     S   ;   !   piel, cuero (aféresis de  -a )
+!ajkuö̀:jkuö  S   ;   !   forma relacional de  ajkuö̀ 'piel, cuero' (aféresis de  -a )
+!ajkuö̀:jkué  S   ;   !   forma de  referencia particularizada de ajkuö̀ 'piel'. (aféresis de  -a )
+!ajkuö̀:jkue   S   ;   !   forma relacional de ajkué referencia particularizada de ajkuö̀ 'piel'. (aféresis de  -a )
+stsè:stse              S   ;   ! canción, canto, forma de referencia particularizada y relacional de stsè
+kichà:kicha    S   ;   !    forma relacional de kichà 'cuerda, soga'
+katà:kata        S   ;   !   Apoyo, ej ulàkata, chamùkata, së́kata                
+shù̱:shu̱      S   ;   !    forma relacional de shù̱ 'parte de adentro'
+wö̀:wö            S   ;   ! forma relacional de   cara, fruta
+wö̀che    S   ;   ! No documentado, propiedad, pertenencia. A nivel sintáctico requiere de la posposición ë. Equivale a la expresión 'a cargo de' 
+ù:wé      S   ;   !   forma de referencia particularizada de casa, se añade é a la raíz: ù 'casa'.
+ù:we       S   ;   !   forma relacional de wé, referencia particularizada de casa, se añade é a la raíz: ù 'casa'.       
+ù:u       S   ;   !    forma relacional de ù 'casa'                       
+balà:bala  S   ;   !   forma relacional de balà
+!di':dî            S   ;   !   agua, río
+di':di          S   ;   !   agua, río      
+akà:kà            S   ;   ! diente, filo, pico
+tak         S   ;   !  cualquier trozo o fragmento de algo          
+bali            S   ;   ! Relacionado con la posición central de algo, por ejemplo së́bali 
+!alà:ala                            SH  ;   !   hijo (a), niño (a), sobrino (a) Es uno de los pocos sust humanos que carece de flexión plural 
+jtö̀:jtö                  S   ;   ! superficie superior cóncava,  interior de un espacio, lugar, ej: casa, canasta                    
+ajkö̀:ajkö            S   ;   !   boca, borde, orilla
+wö́kir:wökir     S   ;   !   cabeza   
+ni̱mà̱:ni̱me̱  S   ;   !   forma relacional de ni̱mé̱ referencia particularizada de ni̱mà̱ 'pez'.
+ttö̂:ttö		S	;  parte superior interna de algo
+ñá̱k:ña̱k               S   ;   !   bocana, desembocadura de un río, nalga                     
+                                
+LEXICON Dim             
++Dim:ala    Dim ;     
+!+Dim:la		Dim    ; !   
+!+Dim:la     Numerales ;   !  
+!+Dim:la		Num    ; ! 
+!+Suf[limitativo]:ë̀      #      ;   !   Sufijo limitativo, 'solamente'. 
+
+            #   ;       
+                
+                
+LEXICON     SNum        
++Sust:0   NumCabecar    ;               
+                
+                
+                
+        
+                
+
+
+LEXICON     S           
++Sust^:0    SustRelacionales    ;       
++Sust:0     Sufijos                     ;
++Sust^:0        Infijos   ; 
+!+Sust^:0       Sustantivos         ; ! el problema de esta regla es que ocasiona sobregeneración de formas
+!+Sust^:0       Verbos          ; ! Esta cadena también ocasiona formas no válidas, quizás es mejor etiquetar individualmente los verbos derivados de sustantivos
++Sust^:0        Causativo           ; 
++Sust^:0       ComposicionVerbal   ;
++Sust^:0        AdjRelacionales     ;  ! revisar la conveniencia de esta regla se creo por ùsulë
++Sust:0     Num ;               
+
+
+LEXICON ComposicionVerbal
+bal         -ë     ;   !  guardar, esconder tr.
+y           -ë     ;   !   decir intr.
+y:ch    -ë     ;   ! decir intr. Realización  sorda de  - y /dʒ/ ->  -ch /tʃ/   en la voz activa
+y           -ë     ;   !   salirse refl. extraer, arrancar tr.
+y           Hiato-ö        ;   !   hacer tr.   
+y           -a      ;   !   beber, sacar  intr.  También se emplea son el sentido de sacar algo  con cuidado, por ejemplo el bejuco de canasta
+tuí                                sin_caida_vn   ; ! oscurecer, anochecer
+tuí:tawí                              sin_caida_vn   ; ! oscurecer, anochecer
+sí                         -a̱           ; !   secar tr. 
+sír:sìn                   VM              ;   ! secarse tr. ;
+si̱                         sin_caida_vn                        ;   ! raspar tr ; (apàsié̱lor)
+t           Hiato-o̱            ;   !    comprar,  costar, valer    tr.  (wàta̱ú̱k)
+k           Hiato-ö    ;   !   morder, purificar tr.
+tk          -ë     ;   !   clavar, sentar tr.  intr. pasar
+báts:bats                  VActiva     ;   !  pegar, unir, adherir, tr. Abstenerse intr  (wö̀batse 'gustar')
+báts:bàts                 VM  ; ! 
+i                       -ë                         ;   !  poner, colocar, echar tr.
+apàk:pàk      -a      ;   !    visitar tr. (contar, narrar con ká̱)      
+á̱r:à̱n                           VM                  ;   !   gritar, caer
+ó̱r:ò̱n                           VM                  ;   ! gritar.  Coroma     
+wíts:ts        -ë     ;   ! desatar con la raíz wö̀  
+kalö'              sin_caida_vn    ;   ! agarrar, coger tr.  (wö̀kalö̂u̱k)  'frenar, aguantar'           
+t           -ë     ;   !   cortar, derribar, golpear, herir, matar, cazar tr.    (apàtök)
+irík:ikal                  VActiva ;   !  limpiar, barrer, bailar. 
+irík:irìn             VM  ;   !  limpiar, barrer, bailar  
+ñî̱                    sin_caida_vn   ; ! amanecer  (ká̱ñì̱na̱)
+te̱:ti̱                         TemaVozActivaNasal                              ;   !   llevar, meter, introducir. La vocal temática se cierra en i̱ en el tema activo  (itö̀ti̱e̱ke̱ 'perseguir')
+té̱r:tè̱n                 VM      ;   !   meterse. té̱rke̱ se usa con el significado de llegar a un lugar donde no se suele ir
++V+PerfImp:te̱'         Direccionales       ;
+u           sin_caida_v     ;   !   moler   tr.         (wàwè 'moler')
+ts                      -e̱     ;   !   buscar, traer,  llevar tr.  (dalë́rtsù̱ke̱  `llevarse bienʼ)      con el direccional a̱t adquiere el significado de quedarse o dejarse
+chikí                  sin_caida_vn    ;   !   Verbo no documentado, 'chapear a medias un terreno'      
+ijts            -ë     ;   !   sentir, oir  tr.   
+ijts:ts     -ë     ;   ! sentir, oir tr.                   
+            
+            
+LEXICON Adjetivos           
+bua'        Adj                 ;       ! bueno (a)
+bua'bua'        Adj                 ;       ! bueno (a) Grado atenuado
+bua':buá   Adj                 ;   ! bueno (a)
+bua':bua    Adj                 ;   ! bueno (a)
+!sha̱       Adj                 ;   !   ¿abundante? → sha̱lâ̱  crecido, abundante. (adj int sha̱lâ̱la̱)
+kibí           Adj                 ;   !      mayor en edad    
+duládula   Adj                 ;   !      joven
+darë̂rë̂      Adj             ;       !      duro, fuerte, estricto, resistente
+dalóie     Adj             ;   !      duro
+sé̱se̱         Adj             ;   !    simple, frío, helado (grado atenuado)
+tséttsê   Adj   			;  !  oscuro
+tsétse		Adj				; ! oscuro (grado atenuado)
+sulû           Adj             ;   !       malo, mala, mal 
+ ta̱mú̱ta̱mù̱         Adj         ;   !          grado intenso de ta̱mú̱ (no está en el diccionario) 
+ ta̱mú̱                    Adj         ;   !      espeso, agrio
+ si̱â̱                     Adj         ;   !      pobre, triste              Ortografía de Constenla
+ si̱â̱:si̱à̱                      Adj         ;   !      pobre, triste        Ortografía de Margery
+ !si̱â̱:si̱â̱r                        Adj         ;   !      pobre, triste        (Comunicación personal Julio Morales)
+ !si̱â̱:si̱à̱r                        Adj         ;   !      pobre, triste        (Comunicación personal Julio Morales)
+ iku̱á̱ki̱             Adj         ;   !    otro (a), diferente    
+ iku̱á̱ki:iku̱â̱ki̱               Adj         ;   !       
+tsîr                       Adj         ;   ! pequeño singular      
+tsítsi                     Adj         ;   ! pequeño plural    
+pô                     Adj         ;   !  mucho(s) 
+alí                        Adj         ;   ! maduro (a)
+alí:li                     Adj         ;   ! maduro (a) Forma que se añade a los sustantivo
+ichö́k                 Adj         ;   !  verdadero
+wî̱wî̱                    Adj         ;       !    plural.  grandes
+bulùbulu           Adj         ;  !   plural.  grandes
+dalö̂lö̂              Adj         ;   !    brillante
+ajkê̱                  Adj         ;   !    plano
+e'köl                  Adj         ;   !    solo       
+bámbâ             Adj         ;   !    caliente, grado positivo
+nê̱ne̱                 Adj         ;   !    tierno
+sulë́                  Adj         ;   !     de forma cónica
+tsi̱nì̱                    Adj         ;   !    No está documentado, 'forma redonda'
+shakít             Adj         ;   !    de forma redonda
+shakít:shkít              Adj         ;   !    de forma redonda
+si̱ê̱                      Adj         ;   !    azul
+tsikirís               Adj         ;       !   amarillo
+sarûrû                Adj     ;   !    blanco
+bachâbacha     Adj     ;   !    agrio, fermentado
+bachâbacha:bächábacha          Adj       ;   !   agrio, fermentado
+í̱skî̱                        Adj     ;   !           bajo
+í̱skî̱:í̱ski̱                        Adj     ;   !           bajo
+í̱si̱s                     Adj             ;   ! algo bajo
+bë̂rie                 Adj     ;   ! grande
+yë̂syë̂s              Adj     ;   ! correcto, honrado, recto
+!balô          Adj     ;   ! dulce
+balôbalô          Adj     ;   ! dulce
+!balôbalô:blôblô            Adj     ;   ! dulce
+!balôbalô:balôbalo           Adj     ;   ! dulce
+!balôbalo:balôbalô           Adj     ;   ! dulce
+ma̱lá̱tsma̱lá̱ts                  Adj     ;   ! sabroso, delicioso
+shá̱böts                                  Adj  ; ! medio
+!sí                    Adj ;   ! seco, kàl síë̀  No admite intensificador, di' sí pô pero ie' dör síie
+shkë́          Adj ;  !  empinado. No está documentado ej: tuléstsa̱ ká̱ shkë́la  mi̱k. 'lo botamos en un lugar empinadito'
+tulù           Adj ;   ! se usa con si'wö para expresar que la luna está llena
+yirîrî          Adj   ;   ! estrecho, pegado. No documentado
+shalë̂lë̂      Adj  ; !  ralo,  distanciado
+shalë̂lë̂:sha̱lê̱lê̱      Adj  ; !  ralo,  distanciado
+shalë̂  Adj  ; ! menudo, ralo, distanciado
+shalë̂:shalë́  Adj  ; ! menudo, ralo, distanciado
+mâ̱tk          Adj  ; !  de color rojo
+mâ̱tkle          Adj  ; !  de color rojo
+shô                Adj ; !  ancho
+póppô     Adj  ; ! seco  Forma documentada en el diccionario
+póppô:po'po'      Adj  ; ! seco.  Forma usada por los hablantes
+bitsî̱         Adj  ; !  largo
+bitsî̱:bitsì̱         Adj  ; !  largo
++Adj[interrog]:ìs          #       ;   !   Adjetivo interrogativo 'cómo'
+sa̱nâ̱nâ̱			Adj ; ! tupido,  denso
+me̱'					Adj  ;  !  silencioso, callado
+kë́sik				Adj  ; ! valiente
+
+LEXICON   AdjRelacionales
+sulë́                  Adj         ;   !     de forma cónica
+alí:li                     Adj         ;   ! maduro (a) Forma que se añade a los sustantivo
+ichö́k                 Adj         ;   !  verdadero  (ni̱mà̱ichö́k)
+tsi̱nì̱                    Adj         ;   !    No está documentado, 'forma redonda' ulàtsi̱ni̱
+tsítsi                     Adj         ;   ! pequeño plural    
+si̱â̱                     Adj         ;   !      pobre, triste              Ortografía de Constenla
+si̱â̱:si̱à̱                      Adj         ;   !      pobre, triste        Ortograf́́ía de Margery
+ 
+ 
+                
+LEXICON Adj         
+!+Adj^:0                        Adjetivos   ;
++Adj:0      SufijosAdjetivos                ;
++Adj^:0     Causativo       ;               ! revisar esta regla, pues provoca sobregeneración de formas
+ +Adj^:0                 SustRelacionales   ;
+
+LEXICON   Causativo
+0               -o̱     ;   !   causativo hacer tr.
+
+
+LEXICON  SufijosAdjetivos
++Int:ë Dim         ;   !   Sufijo que marca el grado intenso de los adjetivos y algunos adverbios
++Suf[Adv]:ëme̱ Dim         ;   !   Sufijo que sirve para derivar adverbios de modo
++Int:rë    Dim         ;   !   Sufijo que marca el grado intenso de los adjetivos y algunos adverbios. Alormorfo de ë
++Int:r  Dim         ;   !   Sufijo que marca el grado intenso de los adjetivos y algunos adverbios. Alormorfo de ë
++Pl:pa  Dim     ;       ! Algunos adjetivos reciben este sufijo, incluso en adjetivos que ya son plurales ej: tsítsipa                     
++Posp[similativa]:ie                Dim             ;   
+ 
+                            Dim ;                   
+                
+                
+                
+                
+LEXICON     Sufijos     
++Suf[referencia]:i  Dim             ;   ! Sufijo que llevan los formas de referencia particularizada        
++Suf[redondo]:wö   Dim                 ;   !   Morfema derivativo
++Posp:jkö  Dim             ;   !   Posposición . a la orilla de (Constenla, 1998)
++Suf[de_lado_de/arriba]:jke̱        #   ;   Sufijo relacionado con la posposición ajke̱ de lado de, arriba
++Posp[similativa]:ie    Dim             ;   !       Posposición similativo  'como', 'en condición de',  'en estado de' (En la escritura está perdiento la función de posposición para convertirse en un sufijo
+!+Suf:io    Dim             ;       !   af. de iö́k 'ponerse prendas'
++Suf:ë̀     Clases     ;   !   Sufijo exclusivo, 'solamente'
++Suf[iterativo]:ne̱ #               ;   !       Sufijo iterativo, indica repetición del acontecimiento
+!+SufLiq:ri Dim                 ;       
++Suf:lit            Dim     ;   ! Sufijo referido a algo delgado,  ej: ajkuö́lit     
++Suf[ascenso]:ka̱     Dim  ;    ! Lo hemos observado como sufijo de cha̱né̱  'costillas'     cha̱né̱ka̱   'cercha'        
++Suf[ascenso]:ka     Dim  ;    ! Lo hemos observado como sufijo de cha̱né̱  'costillas'     cha̱né̱ka̱   'cercha'     
++Posp[hasta-durante]:ska        #   ;   ! Posp. 'hasta', 'durante'  
++Posp:r             #           ;   !   Posp. Tópico de la oración ecuacional, ergativo
+ +Suf:söl      #   ;  !  morfema cabécar, punta, cerro                   
+                            Dim ;           
+    
+LEXICON Infijos
+köl                Inf   ; !  Se crea esta entrada para analizar la forma ká̱köljtö  'cielo'        
+    
+LEXICON Inf 
++Suf^:0   Sustantivos ;     
+
+LEXICON SufijosVerbales
++Suf[actual]:i̱a̱   #               ;   !   Sufijo de pertinencia actual, todavía
++Suf[reiterativo]:ne̱   #               ;   !       Sufijo iterativo, indica repetición del acontecimiento
++Suf[anticipativo]:tke   SufijosVerbales            ;   !   Sufijo anticipativo, expresa la idea del adverbio ya, antes
++Suf[limitativo]:ë̀ #               ;   !   Sufijo limitativo, 'solamente'
++Suf[incoativo]:mi̱ SufijosVerbales         ;   !   Sufijo incoativo. Unido a las formas verbales perfectivas.
++Suf[Pl]:dak                #           ;   !  el sufijo pluralizador -dak, se añade a las posposiciones y a los verbos intransitivos.
++Suf[Pl]:rak                #           ;   !  el sufijo pluralizador -dak, se añade a las posposiciones y a los verbos intransitivos.
++Suf[Pl]:se̱n               #           ;   !  el sufijo pluralizador 
++Suf[prontitud]:u̱      Direccionales   ;   ! Sufijo no documentado, al parecer significa rápidez, prontitud, lo hemos observado en verbos de movimiento y transitivos con direcciones:   
++Posp[similativa]:ie                Dim             ;   !    Se suele utilizar como sufijo aunque deriva de la posposición similativa  -ie  'como', 'en condición de',  'en estado de' 
+!+Suf[finalidad]:ó     SufijosVerbales     ;   !   Este sufijo se emplea para construir formas verbales dependientes de finalidad de verbos orales
+!+Suf[finalidad]:ó̱        SufijosVerbales     ;   !   Este sufijo se emplea para construir formas verbales dependientes de finalidad de verbos nasales
++Suf[reiterativo]:ma̱le̱        #                           ;   ! Sufijo que se agrega a la flexión del verbo para indicar repeteción de la acción.
++Suf[reiterativo]:mu̱le̱        #                           ;   ! Sufijo que se agrega a la flexión del verbo para indicar repeteción de la acción.
++Suf[Pl]:yar                        SufijosVerbales                     ;   ! 
++Suf[Pl]:lor                    SufijosVerbales      ;   !  Sufijo plural        
++Suf:öl                                 Direccionales            ;    !    Morfema no documentado, observado en los hablantes del Pacífico ante los infinitivos
++Suf[Aum]:wa̱           #                           ;       !  Sufijo aumentativo, solo funciona Sufijo aumentativo, solo funciona con verbos intransitivos: stsö́kwa̱, shkö́kwa̱, tso'wa̱        
++Suf[duda]:alè                 #       ;   ! Constenla lo llama partícula de duda  
++Posp[comit]:da                             #  ; ! Posposición de carácter cominativo.  Se ha observado en el bribri de Coroma. También está  presente en cabécar               
+                Dim         ;       
+                
+                
+LEXICON     Demostrativos           
++Dem[cerca]:i'  Posposiciones   ;   !   Demostrativo utilizado para referirse a lago que está físicamente cerca del hablante
++Dem[cerca-oyente]:sé̱ Posposiciones ; !   Demostrativo utilizado para referirse a algo que está físicamente cerca del oyente
++Dem[ausente]:e'     Posposiciones  ;   !   Demostrativo,  utilizado para referirse a lago que no es percibido físicamente por el  hablante,   'aquel'
++Dem[solo_escuchado]:ñe̱'           Posposiciones       ;   !   Demostativo, 'aquel' alejado tanto del interlocutor como del hablante, no a la vista, pero escuchado por el hablante
++Dem[solo_escuchado]:ñé̱           Posposiciones       ;   !
++Dem[mismo_nivel]:a̱w       PlanoNasal  ;   !   'aquel'  al mismo nivel
++Dem[mismo_nivel]:w     PlanoNasal  ;   !   'aquel'  al mismo nivel. Aféresis de -a
++Dem[arriba]:a      PlanoOral   ;   !   'aquel' arriba
++Dem[abajo_primer_plano]:diö́  #   ;   !  'aquel'  abajo, primer plano
++Dem[abajo_seguno_plano]:dià   Dim   ;   !   'aquel'  abajo, segundo plano
++Dem[comparativo]:ése          #   ;   !   Demostrativo comparativo 'como ese' 'de ese'    
++DemClase:íse  Dim         ;   !   Demostrativo  de clase:  'uno como este'
++Dem[interrog]:wé̱         Posposiciones       ;   !   Demostrativo interrogativo 'cuál'.  Adverbio interrogativo de lugar 'donde'
+
+
+                
+
+
+LEXICON PlanoNasal      
++1Plano:í̱     Posposiciones       ;   ! primer plano          
++1Plano:í̱sh       #       ;   ! primer plano          ¿Es la foma a̱wí̱sh un demostrativo? ej: ye' i kiè a̱wí̱sh ë̀ka̱ ta̱ sa' bák "isla" ajke̱ ta̱  
++2Plano:ì̱     Posposiciones   ;   ! segundo plano 
+
+
+LEXICON PlanoOral   
++1Plano:í      #       ;   ! primer plano                  
++2Plano:ì      #       ;   ! segundo plano 
+
+
+
+
+                
+LEXICON Adverbios
+!+Adv:chö̂ #   ;   !   Adverbio    no  documentado,    ¿?  ej: selè   mí̱    chô    chö̂   dö̀ka̱                                                                         
+!+Adv:íjkë    #   ;   !   Adverbio    'en este    tiempo' 'este   tamaño' unión   de  i'  +   jkë                                                                        
+!+Adv:ñe̱'e̱    #   ;   !   Adverbio    de  lugar   y   tiempo  'en aquél   lugar'  'en aquél   tiempo' (Constenla  1998)                                                               
+!+Adv:ñé̱e̱    #   ;   !   Adverbio    de  lugar   y   tiempo  'en aquél   lugar'  'en aquél   tiempo' (escritura  usual   de  los maestros)   Según   Julio   Morales podría  ser la  contracción de  dos demostrativos   ne̱'    +   e'
+!+Adv:ñê̱e #   ;   !   Adverbio    de  lugar   y   tiempo  'en aquél   lugar'  'en aquél   tiempo' 'entonces'  (Magery 1996)                                                           
+!+Adv:ta'ie #   ;   !   Adverbio    no  documentado 'cerca'                                                                                                 
+!+Adv:táie #   ;   !   Adverbio    no  documentado,    'detenidamente' (ver    o   conocer algo    de  manera  profunda)                                                                       
+!+Adv[afirmativo]:ë́me̱    Num ;   ;   !   Partícula   que se  usa para    expresear   que la  acción  se  prolonga    en  el  tiempo  .   Ortografía  empleada    por los informantes consultados                         
+!+Adv[allí]:e̱'rök #   ;   !   Adverbio    'allí   ¿Gramaticalización  de  e̱' +   dö́k   ?                                                                                   
+!+Adv[de_vez_en_cuando]:wè̱salè   #   ;   !   Adverbio    no  documentado,    de  vez en  cuando                                                                                      
++Adv[lugar]:ë̀ka̱ #   ;   !   Adverbio    no  documentado 'hacia  '   'dirección' viene   de  ë̀ solamente   +   sufijo  ka̱                                                             
+!+Adv[lugar]:wö́i̱â̱k #   ;   !   Adverbio    no  documentado,    forma   lexicalizada    del demostrativo    i'+ la  posposición a̱                                                                      
+!+Adv[modo]:ë́me̱  Num ;   !   Adverbio    no  documentado 'por    nada'   'por    gusto'                                                                                      
+!+Adv[modo]:shlë́wö   SufijosAdverbiales  ;   !   Adverbio    o   adjetivo    no  documentado,    'disperso'  'separado', se  encuentra   entre   los adjetivos   shalë̂                                                             
+!+Adv[tiempo]:bulâme̱  #   ;   !   Adverbio    'temprano   en  la  mañana'                                                                                             
+!+Adv[tiempo]:chkì #   ;   !   Adverbio    'ayer'                                                                                                          
+!+Adv[tiempo]:î̱ñe̱    #   ;   !   Adverbio    de  tiempo  'hoy'                                                                                                   
+!+Adv[tiempo]:mì̱k #   ;   !   Adverbio    'algún  día',   'de vez en  cuando'                                                                                     
++Adv[afirmativo]:e'kët #   ;   !   Partícula   contestativa    'claro  que sí'        
++Adv[afirmativo]:tö́   #   ;   !   Partícula   contestativa                                                                                                            
++Adv[cantidad]:kí̱ #   ;   Adverbio    de  cantidad    'más'                                                                                                       
++Adv[comparativo]:e's   #   ;   !   Adverbio    comparativo,    hay ambiguedad  en  la  escritura:  es, e's,    ês                                                                         
++Adv[comparativo]:es    #   ;   !   Adverbio    comparativo,    hay ambiguedad  en  la  escritura:  es, e's,    ês                                                                         
++Adv[comparativo]:ês   #   ;   !   Adverbio    comparativo,    hay ambiguedad  en  la  escritura:  es, e's,    ês                                                                         
++Adv[duda]:alè SufijosAdverbiales  ;   !   Adverbio    'quizás',   'tal    vez'                                                                                                    
++Adv[duda]:alê SufijosAdverbiales  ;   !   Adverbio    'quizás',   'tal    vez'                                                                                                    
++Adv[duda]:barö́r    #   ;   !   Expresión   de  desconocimiento         (Documentado en Margery como interjección barö́r ¿Quién sabe?)  
++Adv[duda]:brö̀    #   ;   !   Expresión   de  desconocimiento         (Documentado en Margery como interjección barö́r ¿Quién sabe?)                                                                                                         
++Adv[duda]:ulàt    #   ;   !   Adverbio    no  documentado 'tal    vez'                                                                                                
++Adv[frecuencia]:skà   SufijosAdverbiales   ;   !   Adverbio    de  frecuencia  'una    vez más',  'de nuevo', 'más'                                                                              
++Adv[interrog]:wè̱k    #   ;   !   Interrogativo   '¿por   dónde?',   '¿cómo?'                                                                                                   
++Adv[interrog]:wè̱s    SufijosAdverbiales  ;   !   Adverbio    interrogativo   de  modo    'cómo', referido    al  procedimiento   para    hacer   algo                                                                        
++Adv[Interrog]:wé̱se   #   ;   !   Adverbio    interrogativo.  '¿De    qué clase?'                                                                                             
++Adv[interrog]wé̱jkë  #   ;   !   Adverbio    interrogativo.  Expresión   que se  utiliza para    preguntar   por el  tamaño, el  peso    etc.                                                            
++Adv[lugar]:aísh   #   ;   !   Adverbio    'más    allá'   (con    respecto    a   un  punto   de  referencia  cercano)                                                                        
++Adv[lugar]:aíshà̱    #   ;   !   Adverbio    no  documentado 'arriba'                                                                                                    
++Adv[lugar]:aíshe̱t    #   ;   !   Adverbio    'arriba'    (de algo)                                                                                                   
++Adv[lugar]:a̱wì̱ëka̱ #   ;   !   Adverbio    'en aquella dirección', 'por    allá'                                                                                           
++Adv[lugar]:awísh  #   ;   !   Adverbio    'más    adelante'   'más    allá'                                                                                               
++Adv[lugar]:awí̱she̱t  #   ;   !   Adverbio    'al otro    lado    de' (al mismo   nivel). Ortografía  según  Margery -1996                                                                   
++Adv[lugar]:a̱wí̱she̱t #   ;   !   Adverbio    'al otro    lado    de' (al mismo   nivel). Ortografía según  informantes                                                                     
++Adv[lugar]:báne̱t #   ;   !   Adverbio    'otra   parte', 'otro   lado'                                                                                               
++Adv[lugar]:e̱' SufijosAdverbiales  ;   !   Adverbio    de  lugar   'allí', 'ahí'                                                                                               
++Adv[lugar]:í̱e̱   SufijosAdverbiales  ;   !   Adverbio    demostrativo    de  lugar   'aquí'.    También puede   ser un  adverbio    temporal    que denota  un  momento cercano al  hablante,   en  este    caso    se  puede   traducir    como    'ahora'         
++Adv[lugar]:ië̀ka̱ #   ;   !   Adverbio    'hacia  acá'                                                                                                        
++Adv[lugar]:îë̀ka̱    #   ;   !   Adverbio    'hacia  acá'                                                                                                        
++Adv[lugar]:itö̀ki̱    #   ;   !   Adverbio    'detrás de'                                                                                                     
++Adv[lugar]:ká̱mî̱    SufijosAdverbiales  ;   !   Adverbio    de  lugar   'lejos'                                                                                                 
++Adv[lugar]:sé̱e̱  #   ;   !   Adverbio    de  lugar   'ahí'                                                                                                   
++Adv[lugar]:tsì̱ne̱t   SufijosAdverbiales  ;   !   Adverbio    de  lugar   'cerca' Ortografía  de  Constenla   1998                                                                                    
++Adv[lugar]:tsî̱ne̱t   SufijosAdverbiales  ;   !   Adverbio    de  lugar   'cerca' Ortografía  de  Margery 1996                                                                                    
++Adv[lugar]:ûriki̱ #   ;   !   Adverbio    de  lugar   'afuera'                                                                                                    
++Adv[lugar]:wé̱shke̱   SufijosAdverbiales  ;   !   Adverbio    de  lugar   'adentro'                                                                                                   
++Adv[modo]:a̱ñì̱es #   ;   !   Adverbio    de  modo    'también',  'igualmente'    'de manera  recíproca'                                                                                  
++Adv[modo]:bë́r    SufijosAdverbiales  ;   !   Adverbio    'cautelosamente',   'con    cuidado'                                                                                                    
++Adv[modo]:bë̂r    SufijosAdverbiales  ;   !   Adverbio    'cautelosamente'    'con    cuidado'                                                                                                    
++Adv[modo]:bë́rëbërë    #   ;   !   Adverbio    'cautelosamente',   'con    cuidado'                                                                                                    
++Adv[modo]:bétk    #   ;   !   Adverbio,   'rápido'                                                                                                            
++Adv[modo]:bulu #   ;   Adverbio    o   adjetivo    'grande'                                                                                                        
++Adv[modo]:chô Dim ;   !   Adverbio    'a  la  deriva' 'sin    rumbo   fijo'                                                                                       
++Adv[modo]:dâ  #   ;   !   Particula   que pospuesta   a   ciertos verbos  indica  la  inmediatez  de  la  acción, ej. tsö́r  dâ ta̱ 'apenas nacen'                                          
++Adv[limitativo]:ë   #   ;   !   Adverbio    'solamente'                                                                                                         
++Adv[modo]:ë́  #   ;   !   Adverbio    'por    gusto'  'en vano'                                                                                                   
++Adv[limitativo]:ë̀  #   ;   !   Adverbio    'solamente'                                                                                                         
++Adv[modo]:ë̀me̱ Num ;   !   Partícula   que se  usa para    expresar   que la  acción  se  prolonga    en  el  tiempo   
++Adv[modo]:e'skapë #   ;   Adverbio    'así',  'de este    modo',  'así   es'                                                                                         
++Adv[modo]:ë̀k SufijosAdverbiales  ;   !   Adverbio    y   Adjetivo    'inmóvil'                                                                                                   
++Adv[modo]:ë̂k SufijosAdverbiales  ;   !   Adverbio    y   Adjetivo    'inmóvil'                                                                                                   
++Adv[modo]:é̱nâ̱  #   ;   !   Adverbio    'despacio'                                                                                                          
++Adv[modo]:é̱nê̱  #   ;   !   Adverbio    'despacio'. Coroma                                                                                                      
++Adv[modo]:ichö́k  SufijosAdverbiales  ;   !   Adverbio    no  documentado,    'verdaderamente'    'propiamente'                                                                                               
++Adv[modo]:kipë    #   ;   !   Posiblemente    funciona    como    adverbio    de  modo,   de  acuerdo con Julio   Morales viene   de  la  frase   íjkë  ë̀ à  pë'    'hasta  aquí    gente'                          
++Adv[modo]:ña̱  #   ;   !   Adverbio,   'también'   'igualmente'    'de manera  recíproca'                                                                                          
++Adv[modo]:ótk #   ;   !   Adjetivo    y   adverbio    'recostado',    'inclinado'                                                                                             
++Adv[modo]:ulàtta̱ #   ;   !   Adverbio    no  documentado,    relacionado con el  verbo   ulàttö̂u̱k,   'distanciadamente', 'separadamente',    'periódicamente'                                                                        
++Adv[modo]:wë'i̱à̱    #   ;   !   Adverbio    de  modo    'en su  punto'                                                                                          
++Adv[modo]:yës SufijosAdverbiales  ;   !   Adverbio    'absolutamente  nada'                                                                                                       
++Adv[modo]:yë́s    SufijosAdverbiales  ;   !   Adverbio    'absolutamente  nada'.  De  acuerdo con Franklin    Morales la  forma   generalizada    de  escribir    este    adverbio    es  con tono    descendente                                     
++Adv[modo]:mò̱ki̱     #  ; !  de verdad
++Adv[neg]:ká̱m #   ;   !   Adverbio    negativo    'mientras   no',    'todavía    no'                                                                                         
++Adv[reiterativo]:ne̱   #   ;   !   Partícula   reiterativa,    similar al  sufijo, pero    se  ha  observado   funcionando como    adverbio    o   posposición                                                         
++Adv[reiterativo]:yé   #   ;   !   Expresión   no  documentada ma̱ñé̱k be' dör ichè yé ta tö se'  mí̱ke̱ Guayabo es  reiterativo,    'acuerdáte?                                                                                     
++Adv[tiempo-lugar]:kúkune̱ #   ;   !   Adverbio    de  tiempo  y   lugar   'a  menudo',    'frecuentemente',   'de pronto',    'cerca',    'a  poca    distancia'. No  documentado                                                 
++Adv[tiempo-lugar]:kúkur   #   ;   !   Adverbio    de  tiempo  y   lugar   'a  menudo',    'frecuentemente',   'de pronto',    'cerca',    'a  poca    distancia'                                                          
++Adv[tiempo-lugar]:kùkur   #   ;   !   Adverbio    de  tiempo  y   lugar   'a  menudo',    'frecuentemente',   'de pronto',    'cerca',    'a  poca    distancia'                                                          
++Adv[tiempo-lugar]:kùkurkùkur #   ;   !   Adverbio    de  tiempo  y   lugar   'a  menudo',    'frecuentemente',   'de pronto',    'cerca',    'a  poca    distancia'                                                          
++Adv[tiempo]:bàn   #   ;   !   Adverbio    de  tiempo  'hace   mucho   tiempo'                                                                                         
++Adv[tiempo]:bë̂rbë̂r #   ;   !   Adverbio    de  tiempo  'más    tarde'                                                                                              
++Adv[tiempo]:bö́kali   #   ;   !   Adverbio    de  tiempo  'anteayer'                                                                                                  
++Adv[tiempo]:bula'me̱   #   ;   !   Adverbio    'temprano   en  la  mañana'                                                                                             
++Adv[tiempo]:bulé  Num ;   !   Adverbio    'mañana'                                                                                                            
++Adv[tiempo]:chakì #   ;   !   Adverbio    'ayer'                                                                                                          
++Adv[tiempo]:daléwa    #   ;   !   Adverbio    de  tiempo  'mientras'  (   se  encuentra   documentado como    adverbio    de  lugar   con el  significado de  'detrás')   
++Adv[lugar]:dalé    #   ;   !   Adverbio    de  tiempo  'mientras'  (   se  encuentra   documentado como    adverbio    de  lugar   con el  significado de  'detrás')                                             
++Adv[tiempo]:édale #   ;   !   Adverbio    de  tiempo  'en ese momento',   'en ese instante'                                                                               
++Adv[tiempo]:édle  #   ;   !   Adverbio    de  tiempo  'en ese momento',   'en ese instante'                                                                               
++Adv[tiempo]:ékëpa    #   ;   Adverbio    de  tiempo  'entonces'  'en ese momento'.   Coroma                                                                                      
++Adv[tiempo]:élke  #   ;   !   Adverbio    'por    un  largo   rato'                                                                                               
++Adv[tiempo]:i̱'ñe̱ #   ;   !   Adverbio    de  tiempo  'hoy'                                                                                                   
++Adv[tiempo]:i̱â̱chikí    #   ;   !   Adverbio    de  tiempo  'antiguamente'                                                                                                  
++Adv[tiempo]:i̱â̱chikíli  #   ;   !   Adverbio    de  tiempo  'antiguamente'                                                                                                  
++Adv[tiempo]:i̱â̱chkí #   ;   !   Adverbio    'antiguamente'  'hace   mucho   tiempo'                                                                                             
++Adv[tiempo]:i̱â̱chkíli   #   ;   !   Adverbio    'antiguamente'  'hace   mucho   tiempo'                                                                                             
++Adv[tiempo]:i̱â̱i̱â̱ #   ;   !   Adverbio    de  tiempo  'antiguamente,  en  otro    tiempo'                                                                                     
++Adv[tiempo]:î̱ñe̱ #   ;   !   Adverbio    de  tiempo  'hoy'                                                                                                   
++Adv[tiempo]:kalì  #   ;   !   Adverbio    no  documentado,    tal vez  î̱ñe̱ kà̱li yë́r kalì                                                                                          
++Adv[tiempo]:ké̱kará  SufijosAdverbiales  ;   !   Adverbio,   'siempre'   'todo   el  tiempo'.    Forma   reducida    kará   >   krá        
++Adv[tiempo]:kará  SufijosAdverbiales  ;   !   Adverbio,   'siempre'   'todo   el  tiempo'.    Forma   reducida    kará   >   krá                                                                        
++Adv[tiempo]:ké̱we SufijosAdverbiales  ;   !   Adverbio    'primeramente', 'antes  que'                                                                                                    
++Adv[tiempo]:ma̱ñé̱k   #   ;   !   Adverbio    'dentro de  tres    días'                                                                                               
++Adv[tiempo]:mì̱k  SufijosAdverbiales  ;   !   Adverbio    de  tiempo  interrogativo   y   relativo    'cuando'                                                                                        
++Adv[tiempo]:mì̱ka Dim ;   !   Adverbio    'cuando'                                                                                                            
++Adv[tiempo]:mì̱ka̱    #   ;   !   Adverbio    'cuando'   Ort. de Maryeri
++Adv[tiempo]:mí̱ka̱    #   ;   !   Adverbio    'cuando'       Ortografía empleada por los maestros                                                                                                      
++Adv[tiempo]:na̱ñé̱    SufijosAdverbiales  ;   !   Adverbio    de  tiempo  'durante    toda    la  noche'                                                                                      
++Adv[tiempo]:na̱ñê̱    SufijosAdverbiales  ;   !   Adverbio    de  tiempo  '   toda    la  noche'                                                                                      
++Adv[tiempo]:ñí̱   SufijosAdverbiales  ;   !   Adverbio    de  tiempo  'durante    todo    el  día'                                                                                       
++Adv[tiempo]:ñî̱   SufijosAdverbiales  ;   !   Adverbio    de  tiempo  'durante    todo    el  día'                                                                                       
++Adv[tiempo]:ñî̱köl   #   ;   !   Adverbio    de  tiempo  no  documentado,    'tiempo'                                                                                            
++Adv[tiempo]:ñî̱ñî̱   #   ;   !   Adverbio    de  tiempo  'durante    todo    el  día'                                                                                       
++Adv[tiempo]:tke̱'k #   ;   !   Adverbio,   'dentro de  cuatro  días'                                                                                               
++Adv[tiempo]:tkê̱k #   ;   !   Adverbio,   'dentro de  cuatro  días'                                                                                               
++Adv[tiempo]:tsá̱li̱   #   ;   !   Adverbio    de  tiempo, 'por    la  tarde'     
++Adv[tiempo]:tsá̱we	#  ;  ! Adverbio  y adjetivo 'por primera vez', 'primogénito'                                                                                    
++Adv[tiempo]:uka'   SufijosAdverbiales  ;   !   Adverbio    no  documentado 'desde  el  principio'                                                                                          
++Adv[tiempo]:ukö̀ki̱   #   ;   !   Adverbio    de  tiempo  'después'         
++Adv[tiempo]:ajkè̱n		#		;	! Adverbio 'antes' 'en otro tiempo'                                                                                
++Neg:aû    #   ;   !   Partícula  contestativa    'no'                                                                                                        
++Neg:áù   #   ;   !   Partícula  contestativa    'no'                                                                                                        
++Neg:kë̀   Dim ;   !   Partícula  de  negación   'no'                                                                                                    
+!+Part:ë̀   #   ;   !   Partícula   que se  usa en  los enunciados  interrogativos  con la  idea    que responda    solo    eso.                                                        
+
+
+
+
+
+LEXICON   SufijosAdverbiales
+
++Suf:we                 Dim     ;   ! Sufijo usado con algunos adverbios de tiempo
++Suf:we̱                    Dim     ;   ! Sufijo usado  con  adverbios de tiempo,  de acuerdo con Franklin Morales la vocal se nasaliza y se suele escribir como nasal, aunque en el diccionario aparezca oral, para efectos del analizador se considerán las dos
++Suf[int]:ë                Dim     ; ! Sufijo intensificador que se utiliza tanto en adjetivos como en adverbios
++Suf:alè                 SufijosVerbales     ;   ! Constenla lo llama partícula de duda
++Suf:alê                 SufijosVerbales     ;   ! Constenla lo llama partícula de duda 
++Suf:ka                     #           ;   ! Sufijo que se emplea optativamente antes de la posposición ki̱, se observa en hablantes de Coroma, que tienen influencia cabécar 
++Suf:ka̱                        #           ;   
++Posp[similativa]:ie                Dim             ;    
++Posp[superlativo]:ie               Dim             ;    
+ +Suf[reiterativo]:ne̱          #       ;   ! Partícula reiterativa, similar al sufijo, pero se ha observado funcionando como adverbio o posposición
+ +dë+V+Inf:rök                Posposiciones       ;   ! dö́k funciona como una posposición con el significado de 'llegando hasta' 
+ dë+V+Imp1Intran:rö		Dim             ;
+
+								Dim           ;
+    
+                                
+LEXICON Pronombres              
+    Personales                  ;   
+    Nopersonales                ;       
+                
+            
+                
+LEXICON Nopersonales
++Pron[interrog/indef]:ì        Personales  ;   !   Pronombre interrogativo:  qué.   Pronombre indefinido:  nada
++Pron[interrog]:í̱ma̱      Dim          ;   !   Pronombre interrogativo: cómo
++Pron[interrog/indef]:yì   Posposiciones            ;  !   Pronombre interrogativo: quién. Pronombre indefinido: alguien, nadie
++Pron[todo(s)]:ulìta̱ne̱           #   ;   !   De acuerdo con Margery (1996) es sustantivo y pronombre, 'todo(s)'  
++Pron[todo(s)]:ulíta̱ne̱           #   ;   ! Sustantivo y pronombre, 'todo(s)'.  Los bribri suelen escribirlo con tono desdendente en lugar del tono alto registrado en el Diccionario de Margery (1996)
+!+Pron[recíproco]:ñì̱          Posposiciones   ;   ! Pronombre recíproco, el uno al otro.
++Pron[recíproco]:a̱ñì̱         Posposiciones  ;   ! Pronombre recíproco, el uno al otro.  De acuerdo con Franklin esta es la forma ḿas generalizada de escribir este pronombre. También es la forma que usa Constenla (1998)
+
+                
+LEXICON Personales          
++1PSg:ye'       Posposiciones   ;   !   yo
++1PSg+Posp[Erg]:yö 		Dim    ;
++1PSgD:ña̱      #                   ;   !  yo, mi. Forma débil nasal de ye'
++2PSg:be'       Posposiciones   ;   !   tú, vos, usted
++2PSg+Posp[Erg]:bö  	Dim ;
++3P:ie'         Num         ;   !   él, ella, ello
++3PD:i          Posposiciones   ;   !   él, ella, ello. Forma débil  oral de ie' 
++3PD:i̱         Posposiciones   ;   !   él, ella, ello. Forma débil  nasal de ie' 
++1PPl+Inc:se'   Posposiciones   ;   !   nosotros inclusivo 
++1PPl+Inc:se    Posposiciones   ;   !   nosotros inclusivo 
++1PPl+Inc+Posp[Erg]:sö		Dim ; 
++1PPl+Exc:sa'   Posposiciones           ;   !   nosotros exclusivo 
++2P+Pl:a'       Posposiciones               ;   !   ustedes
++Refl:e̱'           #               ;   !   nominal reflejo
+                Dim          ;
+                
+LEXICON  Cuantificadores
++Cuant[cuánto]:kò̱s    #   ;   !   Cuantificador interrogativo, cuánto    
++Cuant[cuánto]:bakò̱s    #   ;   !   Cuantificador interrogativo, cuánto  
++Cuant[mucho(s)]:ta̱î̱     SufijosAdjetivos    ;   !   Cuantificador indefinido, 'mucho(s)'            
+!+Cuant[uno]:éltë         #   ;   ! Cuantificador referido a especies
++Cuant[alguno(s)]:wé̱alè      # ; ! Cuantificador indefinido, todo, 'todos', algún, algunos
++Cuant[alguno(s)]:wé̱alê      # ; ! Cuantificador indefinido, todo, 'todos', algún, algunos
++Cuant[todos]:sé̱jka̱          #   ;   ! Cuantificador
++Cuant[todos]:sé̱râ       #   ;   ! Cuantificador, variante de Coroma
++Cuant[todos]:wáñe̱            # ; !  Cuantificador, todos, variante de Coroma
++Cuant[todos]:wa'ñe̱            # ; !  Cuantificador, todos,
++Cuant[poco]:wo̱wó̱            #   ;   ! Cuantificador indefinido, 'poco(a)' 'pocos(as)' referido a elementos no contables o a humanos
++Cuant[poco]:wá̱wá̱n      Dim ;   ! Cuantificador indefindo, 'poco(a)' 'pocos(as)' referido a elementos no contables o a humanos 
++Cuant[varios]:tsê			#			;	! Cuantificador 'varios'
++Cuant[varios]:tsè			#			;	! Cuantificador 'varios'
+                
+                
+LEXICON Posposiciones           
++Posp:a̱                Dim ;   !   Posp. en, hacia
++Posp:i̱a̱      #   ;   !       (No está documentada)  se usa para expresar la idea de contenido, pero también se relaciona con el sufijo -i̱a̱ 'todavía', segun nuestro colaborador con la idea de finalidad
++Posp[Erg]:tö          Dim     ;   !   Posp.   Ergativo, tópico de la oración transitiva
++Posp:r             #           ;   !   Posp. Tópico de la oración ecuacional, ergativo
++Posp:dör          Dim  ;   !   Posp.  Marca el tópico de las copulativas ecuacionales y en algunos casos el ergativo   
++Posp[dö̀]:rö   # ;   
++Posp:wa̱           #       ;   !   Posp. Marca un segundo actante en ciertos verbos no transitivos, que solo llevan el absolutivo
++Part:ta̱       Dim     ;   !   Part. Partícula ligativa y focalizadora
++Part[focalizadora]:tá  SufijosAdverbiales ;   ! No documentado, se comporta como un adverbio focalizador
++Posp[compañía]:ta̱     Dim     ;   !   Posp. 'con' Denota compañía.
++Posp:ki̱           SufijosAdverbiales  ;   !   Posp. sobre, encima (en contacto). También puede marcar el caso ergativo
+!+Posp[sobre]:kí̱          SufijosAdverbiales  ;   !   Posp. sobre, encima (en contacto)
++Posp[semejanza]:sû̱           SufijosAdverbiales  ;   !    Posp. semejante a,  parecido a 
++Posp[comparativa]:s            #   ;   !   Posposición comparativa    
++Posp[comparativa]:es           #  ;    !   Posposición comparativa, hay ambiguedad en la escritura: es, e's, ês
+!+Posp[así]:e's            #  ;    !   Posposición comparativa, hay ambiguedad en la escritura: es, e's, ês
+!+Posp[así]:ês            #  ;    !   Posposición comparativa, hay ambiguedad en la escritura: es, e's, ês
++Posp:sâ̱      #   ;   !   !   Posp. 'donde' 'en casa de' 
++Posp[donde]:sa̱    #   ;       !   Posp̱. 'donde' 'en casa de' 
++Part[pues]:icha        #   ;   !       Partícula de apoyo 'pues'.
++Comp:éjkë        Dim ;   ! Posposición, adjetivo o adverbio  comparativo, 'igual que', 'tanto como' éjkë ye'  ki̱ chichì kiàna̱ 'yo quiero un perro como de ese tamaño'      
++Posp[comparativa]:jkë     Dim ;   ! Posposición comparativa, no está documentada como tal, solo con prefijos como  -í,   -é,   -wé̱ , creemos que las formas  íjkë, éjkë, wé̱jkë y similares son contracciones del demostrativo más la posposición  
++Posp[con]:wös #   ;   !   Posposición. Referido a humanos denota la acción de guiar. Referido a animales se usa con sentido comitativo de dirección   
++Posp:wa    #   ;   !   Posposición. Denota instrumento 'con'   
++Posp[por]:ku̱é̱ki̱        #   ;   !   Posp. 'por' casual
++Posp[por]:ku̱é̱               # ; ! Posp.  causal 'por' Apócope de ku̱é̱ki̱
++Posp[hasta-durante]:ska        #   ;   ! Posp. 'hasta', 'durante'              
++Posp[de_lado_de]:ajke̱     #   ;   Posp. de lado de, arriba
++Posp:yö̀ki̱       #   ;   ! Posp. de (evitación) a (malefactivo)
++Posp[hacia_arriba]:wö̀wo̱     #       ;       ! Posposición no documentada
++Posp[hacia_abajo]:wö̀wak      #       ;       ! Posposición no documentada
++Posp[hacia_acá]:wö̀iök       #       ;       ! Posposición no documentada
++Posp[hacia_allá]:wö̀wik       #       ;       ! Posposición no documentada
++Posp:wö̀ka        #       ;       ! Posposición no documentada
++Posp:wö̀ki̱       #       ;       ! Posposición no documentada
++Posp[del_lado]:ajké̱  #   ;   ! Posposición, 'del lado' 'por el lado  de' 
++Posp[limitativa]:ë̀       SufijosAdverbiales  ; ! De acuerdo con Julio Morales funciona como una posposición que expresa obligación hacia el referente
++Posp[similativa]:ie        #   ; ! De acuerdo con Julio Morales esta es una posposición que no debería confundirse con el sufijo similativo ie, ¿ì ie? 'para que'  pero no estamos seguros, pues de acuerdo con Constenla también significa 'como' 'en condición de' 'en estado de'
++Posp[adyacente]:a̱'mi̱k        SufijosAdverbiales  ;   ! Posposición, junto a, a la par de 
++Posp[adyacente]:o̱'mi̱k        SufijosAdverbiales  ;   ! Posposición, junto a, a la par de (Salitre)
++Posp[adyacente]:mi̱k       SufijosAdverbiales  ;   ! Posposición, junto a, a la par de 
++Posp[en_lugar_de]:skéie       #   ; ! Posposición 'en lugar de' 'a cambio de' 'en vez de' 'por'
++Posp[junto_a]:mi̱                      #   ;   ! Posposición observada en el bribri de Coroma, es de influencia cab́écar
++Adv[lugar]:e̱'         SufijosAdverbiales      ;   !   Adverbio de lugar, 'allí', 'ahí'
++Posp[exactamente]:shâ̱            #  ; !  Posposición, 'exactamente en'  'en el preciso lugar'                
++Posp[exactamente]:shà̱            #  ; !  Posposición, 'exactamente en'  'en el preciso lugar'   
++Posp[comit]:da                             #  ; ! Posposición de carácter cominativo.  Se ha observado en el bribri de Coroma. También está  presente en cabécar   
++Posp[sobre]:kí̱ke̱n                       # ;  !  Posposición de uso frecuente en el bribri de Coroma
+ +Posp[hacia_abajo]:wákne̱    #   ;   !   Adverbio    no  documentado,    'hacia  abajo'            
+ +Posp[ante]:wö́ni̱k				#	;	! Posposición 'delante de', 'enfrente de'.
+ +Posp[ante]:wö́rki̱					# ; ! No documentada                 
+                Dim ;
+                
+LEXICON     Direccionales
++Suf[afectación]:wa     SufijosVerbales         ;   ! Denota la afectacion total del absolutivo. 
++Dir[descenso]:wa       SufijosVerbales         ;   ! Movimiento de descenso.
++Dir[ascenso]:ka̱       SufijosVerbales ;   ! Direccional. Denota movimiento de ascenso 
++Dir[ascenso]:ka        SufijosVerbales ;   ! Direccional. Denota movimiento de ascenso 
++Dir[penetración]:wa̱     SufijosVerbales              ;  ! Direccional. Denota un movimiento de penetración.
++Dir[valor.puntual]:wa̱     SufijosVerbales              ;  ! Direccional. Da  valor aspectual puntual.
++Dir[separación]:stsa̱          Dim         ;   ! Dirrecional.  Denota movimiento de separación.
++Dir[separación]:ttsa̱          Dim         ;   ! Dirrecional.  Denota movimiento de separación.
++Dir[separación]:tsa̱           Dim         ;   ! Dirrecional.  Denota movimiento de separación.
++Dir[Pl]:ulur       Dim         ;   ! Direccional. -stsa̱ se remplaza por -ulur cuando el absolutivo del verbo es una entidad plural.
++Dir:bitu̱          SufijosVerbales       ;   !   Direccional, no está documentado, posiblemente está relacionado con el verbo bitú̱k  'venirse'
++Dir:bite̱          #       ;   !   Direccional, no está documentado, posiblemente está relacionado con el verbo bitú̱k  'venirse' (Cabagra)
++Dir:a̱t            #               ;   ! Direccional  no documentado, aparece en el verbo a̱mú̱ka̱t  'dejar'
++Dir:mi̱            #           ;   !   Direccional relacionado con el verbo mí̱k 'ir'
++Dir:shka       #           ;   !   Direccional 
++Dir:tse̱           SufijosVerbales     ;   ! Direccional no documentado, relacionado con el verbo tse̱' 'llevar'
++Dir:tse̱ka̱            SufijosVerbales     ;   ! Direccional no documentado, relacionado con el verbo tse̱' 'llevar'
++Dir:chô           Direccionales       ;   !   Direccional no documentado, relacionado con el adverbio chô
+!+Dir:re                #                               ;   ! Direccional prospectivo
++Dir:rö                SufijosVerbales                             ;   ! Direccional imperfectivo e imperativo
+!+Dir:dö               #                               ;   ! Direccional infinitivo
+!+Dir:rë               #                               ;   ! Direccional improspectivo
++Dir:se̱                #                               ;   ! Direccional no documentado, relacionado con  el verbo tkö́k cuando se refiere a  la acción de sentarse
+            SufijosVerbales ;
+            Posicionales            ;
+            
+            
+LEXICON  MovProspectivo         
++Dir:re             Direccionales                               ;   ! Direccional prospectivo           
+                            Direccionales                               ;
+            
+
+LEXICON  MovInfinitivo          
++Dir:dö̀               Direccionales                               ;   ! Direccional prospectivo           
+                            Direccionales                               ;
+        
+
+LEXICON  MovImprospectivo           
++Dir:rë                Direccionales                               ;   ! Direccional prospectivo       
+                            Direccionales                               ;
+                
+LEXICON Verbos              
+    Orales      ;       
+    Nasales     ;       
+                
+                
+                
+                
+LEXICON Orales  
+apàk       -a      ;   !   contar, narrar, visitar tr.     
+!apàk:pàk     -a      ;   !   contar, narrar, visitar tr. 
+shak            -a      ;   !   caminar intr.
+y           -a      ;   !   beber, sacar  intr.  También se emplea son el sentido de sacar algo  con cuidado, por ejemplo el bejuco de canasta
+sts         -ë     ;   !   cantar intr. 
+sts:ts      -ë     ;   ! cantar intr.   En el dialecto de Katsi y Coroma, se pierde la s inicial del verbo stsö́k, también en palabras compuesta como apàtse
+y           -ë     ;   !   salirse refl. extraer, arrancar tr.
+y           -ë     ;   !   decir intr.
+y:ch    -ë     ;   ! decir intr. Realización  sorda de  - y /dʒ/ ->  -ch /tʃ/   en la voz activa
+al          -i      ;   !   cocinar tr.
+y           Hiato-ö        ;   !   hacer tr.   
+s           Hiato-u     ;   !   fumar   intr.
+k           Hiato-ö    ;   !   morder, purificar tr.   
+k           -a          ;   !   tocar tr. obligar intr.
+u           sin_caida_v     ;   !   moler   tr.         
+shù̱al -i          ;   !  arreglar, enderezar tr.
+ki          sin_caida_v     ;   !  llamar, invitar,  pedir, decir tr. defectivo
+apéit  VActiva     ;   !   prestar, alquilar tr.  
+apéit:apeìt    VM ;   !   prestar, alquilar tr.
++V+PerfImp:apéit       Direccionales ;  
+bík:bik        VActiva     ;   !   talar, cortar  tr. 
+bík:bìn       VM      ;   !   talar tr.     
++V+PerfImp:bík     Direccionales ;  
+barút:butur        VActiva  ;  ! envolver, enrollar
+barút:butùn       VM      ;   ! Confirmar con Franklin
++V+PerfImp:barút       Direccionales ;  
+d           -ë     ;   !   llegar, intr.   (verbo irregular, se debe crear una clase especial para los verbos de este tipo)
+ichàk      -i      ;   !   preguntar, averiguar intr. llamar invocar tr.
+d           Hiato-u ;       !    con el direccional  -wa̱  morir, morirse  intr. Con el direccional -ka̱ parar, levantar, tr. 
+ijts            -ë     ;   !   sentir, oir  tr.    Hay una confusión entro los verbos ijtsö́k o stsö́k -> tsö́k 'sentir' tr.  y stsö́k  -> tsö́k 'cantar'  int. el primero  tendría el significado de oir, de acuerdo con Julio Morales y Franklin Morales y el segundo solo el significado de cantar
+ijts:ts     -ë     ;   ! sentir, oir tr.  Esto ocure con el verbo ijtsö́k documentado así pero de acuerdo con los colaboradores bribris,   la secuencia -ij no se realiza, y en el uso escrito predomina la escritura con -ts tsö́k.     
+tk          -ë     ;   !   clavar, sentar tr.  intr. pasar
+!apáika        Irregular2  ;   !   limpiar, sacudir tr.
+dalö̀i     -ë ;   !   respetar, obedecer tr.      
+!i              -ë     ;   !   echar un líquido o una sustancia en un recipiente, tr.   jalar o traer  algo (improspectivo të'  ¿? )
+jch         -ë     ;   !   rajar, raer tr.             
+t           -ë     ;   !   cortar, derribar, golper, herir, matar, cazar tr.
+bal         -ë     ;   !  guardar, esconder tr.
+!ka̱nè̱bal         -ë  ; !   trabajar int.  Forma gramaticalizada conformada por ka̱nè̱+Sust y balö́k+V
+yë́bal     -ë     ;   ! cazar, montear int.
+we'ik     VActiva   ;   !   maltratar, hacer sufrir.
+we'ik:we'ìn      VM    ;   !   maltratar, hacer sufrir
++V+PerfImp:we'ík        Direccionales ; 
+wö'ik      VActiva ;   ! soplar,  curar tr.
+wö'ik:wö'ìn      VM      ;        ! soplar,  curar tr.
++V+PerfImp:wö'ík       Direccionales ; 
+i̱ù̱t          -ë ;   !   responder, contestar intr.
+út:ujt     VActiva ;   ! hablar.  Seguido del direccional -wa̱  adquiere el significado de matar, y dependiendo del contexto también 'emborracharse'
++V+PerfImp:út          Direccionales ;  ! ujtö́k 'hablar'.  Seguido del direccional -wa̱  adquiere el significado de matar, y dependiendo del contexto también 'emborracharse'
+rát:tar      VActiva   ;   ! rodar, dar vuelta. El tema del improspectivo sufre una metátesis  rat-> tar
+ràt        VM  ;   
++V+PerfImp:rát Direccionales   ;  !
++V+PerfImp:kö́t    Direccionales   ;  ! guerrear, combatir. 
+kö́t:kö̀t    VM  ;  !
+irík:ikal                  VActiva ;   !  limpiar, barrer, bailar. 
+irík:irìn             VM  ;   !  limpiar, barrer, bailar 
++V+PerfImp:irík        Direccionales       ;
+kat         -a              ;   !   comer alimentos  duros
+tsak                -i      ;       !   hacer reventar algo, disparar una arma
+yul                 -ö     ;   !   buscar tr.
+wébal              -ë     ;   ! observar tr.  
+kap                 -ë     ;   ! dormir intr.
+!wö̀pp             sin_caida_v     ;   ! ventear, mecer, colar,  tr.
+!ká̱yë:ká̱ch                     VActiva ;   !   mentir intr.
+!ká̱yë:ka̱yë̀n                       VM  ;   !   mentir intr.
+!+V+PerfImp:ká̱yë'            Direccionales   ;
+bi                      sin_caida_v     ;   ! excavar, castrar, extraer tr.
+búk:pp                     VActiva     ;   ! El improspectivo es búk,  golpear, invadir,  tr. Con el direccional stsa̱ 'botar cosas livianas',
+búk:p                      VActiva     ;   ! El improspectivo es búk,  golpear, invadir,  tr. Con el direccional stsa̱ 'botar cosas livianas',
+búk:bùn                               VM      ;   !  El improspectivo es búk,  golpear, invadir,  tr. Con el direccional stsa̱ 'botar cosas livianas',
++V+PerfImp:búk         Direccionales       ; !  El improspectivo es búk,  golpear, invadir,  tr. Con el direccional stsa̱ 'botar cosas livianas',
+!p                          -u      ; ! No documentado, con el direccional stsa̱ 'botar cosas livianas', el improspectivo es búkstsa̱.
+kít:kìt                       VM      ;   ! escribir, recoger
+kít:isht                       VActiva ;   !  escribri, recoger
++V+PerfImp:kít     Direccionales   ;
+aúk:aku                    VActiva ; ! bañarse intran.
+aúk:aùn                   VM  ;   ! bañarse intran.
++V+PerfImp:aúk     Direccionales   ;
+alo'y                       -a  ;   !  quebrar objetos redondos, dejar un lugar  tr.
+wámbl                  -ë ;   ! suceder intr. hacer tr.
+wö̀ishch               -ë ;   ! pelar frutas o troncos  tr.
+chak                        -a  ;   ! comer intr.
+!chak:chk                       -a  ;   ! comer intr. síncopa
+báts:bats                  VActiva     ;   !  pegar, unir, adherir, tr. Abstenerse intr
+báts:bátsen                 VM              ;
++V+PerfImp:báts        Direccionales   ;
+dë:ti                          VActiva             ;   ! alimentar tr.  Las fomas medias se forman con el tema improspectivo dë'
+dë:dë̀n                           VM                  ;
+dë+V+PerfImp:dë'          Direccionales                       ;
+súk:sku                            VActiva         ; ! lavar tr.  (consultar con Franklin las formas medias)
++V+PerfImp:súk         Direccionales ! lavar tr.   (consultar con Franklin las formas medias)
+súk:sùn      VM      ;        ! soplar,  curar tr.
+i                       -ë                         ;   !  poner, colocar, echar tr.
+dak                     -a                      ;   ! pisar, pisotear, majar tr. intr.
+bák:bak                    VActiva     ;   !   tejer, empacar, envolver
+bák:bàn                   VM              ;                   
++V+PerfImp:bák         Direccionales       ;
++V+PerfImp:bak          Direccionales       ;
+!+V+PerfImp:kö́t           Direccionales ;  ! forma supletiva de ujtö́k
++V+Imperf:tso'          Direccionales       ;   !   estar intr.   
++V+Imperf+Neg:ku̱   #       ;   !   forma negativa imperfectiva de tso' estar intr.
+!+V+Perf:bák               Direccionales       ;   !   forma perfectiva de tso'  estar intr.
++V+Neg+Perf:ku̱'bak     #       ;   !   estar intr.   
++V+Imperf:ta̱'                  SufijosVerbales ;   !   Verbo defectivo de valor imperfecto, 'tener'.
++V+Imperf:dà           Direccionales ; ! Forma imperfectiva, 'pasar', 'pasaba', 'pasando'
++V+Imperf:kéu̱         SufijosVerbales ; ! Verbo defectivo, 'botar', 'tirar'
+!+V+Imperf:wö̀che          #       ;   ! Verbo no documentado, de acuerdo con Franklin Morales (comunicación personal)  se usa para expresar la idea de posesión . Verbo defectivo de valor imperfecto
+!+V+Imp1Medio^:dalë́r  Verbos  ;  ! dalë́rtsöke̱*   al parecer dalë́r no es un elemento nominal, aunque así conste en el diccionario de Margery (1906) Lo que hay son dos raices verbales, la primera siempre va en imperfecto primero              
+mi̱'                    Irregular           ;       ! imperfecto primero de mí̱k 'ir' intr. irreg.
+mi̱':mí̱           Irregular           ;       
+mi̱':mì̱           Irregular           ;   
+tskír:tskìn       VM      ;   !  nacer int.
+tsikír:tsikìn     VM      ;   !  nacer int.
+tsak                -i          ;   ! reventar algo, disparar tr.
+tarë̂              VActivaNasal        ;   ! espantar, acarrear, resbalarse.
+sé̱r:sè̱n                     VM                  ;       !   vivir, morar int. (verbo medio)     
+kúr:kùn                   VM              ;       !   referido a humanos nacer intr. parir tr. (verbo medio)     
+kúr:kù̱n                  VM              ;       !   referido a humanos nacer intr. parir tr. (verbo medio) 
+kiár:kiàn                 VM                  ;       !    querer (verbo mediopasivo) Se registra con la a oral, pero los colaboradores la escriben nasal, la nasalidad en bribri es regresiva, se procede registrar las dos formas
+kiár:kià̱n                    VM                  ;       !    querer (verbo mediopasivo)
+ujché̱r:ujchè̱n                   VM                  ;       !   saber int.(verbo mediopasivo)  
+ú̱r:ù̱n                           VM                  ;       ! volar, también tiene el significado general de andar intr. Es un verbo medio de acuerdo con mis observaciones
+alór:alòn                     VM                  ;       ! terminarse, quedarse sin nada
+i̱rí̱r:i̱nì̱n                     VM                  ;   ! adquir sabor (No se encuentra en el diccionario)
+á̱r:à̱n                           VM                  ;   !   gritar, caer
+ó̱r:ò̱n                           VM                  ;   ! gritar.  Coroma
+é̱n:è̱n                       VM                  ;   ! terminarse, descansar, reposar
+i̱á̱r:i̱à̱n                               VM              ;   ! saber ej  kë̀ ye' é̱n a̱ e' i̱à̱ne̱  intr.
+!ká̱ñi̱                            VActivaNasal                ; ! De acuerdo con Franklin no existen formas como ká̱ñì̱o̱ne̱ o ká̱ñi̱o̱nu̱k por lo que se puede modelar solo el tema activo nasal, por razones de tiempo no lo haremos por el momento.
+!ká̱ñi̱r:ká̱ñì̱n                     VM              ;   ! amanecer intr.
+kabé                           VActivaNasal        ;
+kabér:kabèn                       VM              ;   !   discutir intr.
++V+PerfImp:kabéo̱'     Direccionales  ;
+alár:alàn                 VM      ;   !  conversar,  hacer ruido
+wë́r:wë̀n                 VM  ;   !   verse (Aunque Constenla dice que solo tiene la forma wë́r imperfectiva, comprobamos que es un verbo medio
+wë́r+V+VozMedia+Imp1:wë́                Direccionales  ;   !   verse (Aunque Constenla dice que solo tiene la forma wë́r imperfectiva, comprobamos que es un verbo medio
+ma̱nè̱t                VM  ;   !   venir, venirse (de algún lugar)
+à̱t                        VM  ;   !  quedar, quedarse. Verbo defectivo
+ch                      -ë ;   ! Obligatoriamente lleva el direccional -wa para que tenga el significado de  'perderse' 'extraviarse'
+kibìn                  VM  ;   ! Verbo no documentado, solo presenta las formas medias ' madurar' 'hacerse mujer' 'hacerse mujer'
+shkè̱                  sin_caida_vn  ; ! Amanecer, saludar
+dalë̀n                 VM  ; ! doler, querer 
+nú̱r:nù̱n                 VM  ;   ! podrirse
+i̱ní̱r:i̱nì̱n                 VM  ;   ! dar sabor a algo
+chë̀lór:chë̀lòn             VM      ;   ! reventarse (verbo no documentado)
+buár:bua'n             VM      ;  ! curarse
+tsö́r:tsö́n               VM      ;   ! pasar, suceder 
+kalí                   VActivaNasal                ;   ! enlazar, pescar tr.
+tôa̱:tô                   VActivaNasal                ;   ! suavizar algo tr.
+tôa̱:tôn                   VM                             ;   !  suavizar algo tr.
++V+PerfImp:tôa̱'           MovImprospectivo        ;
+bu                      sin_caida_v             ;   ! tejer, hilar tr.  Verbo no documentado. Confirmar flexiones                   
+tâa̱:tâ                       VActivaNasal                                ;   !  pintar tr. Falta la voz media ¿tàna̱ o tâna̱?
+tâa̱:tân                      VM                                                  ;   
++V+PerfImp:tâa̱'           MovImprospectivo        ;
+
+
+
+LEXICON VM
++V+VozMedia:0       TiemposVozMedia             ;                   
+
+                
+LEXICON Nasales
+ajkö́n                 -a̱ ;   ! cuidar tr.
+ñ           -a̱         ;   !   comer alimentos que exigen poca masticación. tr. También se utiliza para cortar palos be' kál ñè̱
+wö́ulâ   VActivaNasal                         ;   !   1. aprender  refl. (debe ir precedido por el pronombre reflejo e') enseñar tr.    ?
+wö́ulâr:wö́ulân    VM           ;
+wö́ulâo̱:wö́ulâò̱n    VM           ;
+wö̀blár:wö̀blàn		VM   ;  ! aprender wö̀ + balà + formas medias, sin vocal temática	
++V+PerfImp:wö́ulâa̱'          Direccionales  ;
++V+PerfImp:wö́ulâo̱'          Direccionales  ;
+alö̂                   VActivaNasal        ;   ! criar
+alö́r:alö̀n                   VM      ;   ! criar
++V+PerfImp:alö̂a̱'     Direccionales  ; ! criar
+alá                        -o̱     ;   ! No existen formas medias con la vocal o̱
+i̱n         -i̱         ;   !   jugar intr.
+s           Hiato-u̱            ;   !    ver tr.
+tú̱n          VM           ; correr intr.
++V+PerfImp:tú̱ne̱'     Direccionales   ;
+aë̀:aë̀n                      VM                          ;       !    sentir verguenza intr.      
+m           Hiato-o̱            ;   !   atar, amarrar
+!u   ̱́n            -e̱         ;   !    volar
+t           Hiato-o̱            ;   !    comprar,  costar, valer    tr.
+mâ̱            -o̱         ;   !   medir, probar. tr.
+mâ̱n       VM          ;   ! Se crea   para analizar formas como mâ̱ne̱, mâ̱nè̱u̱k,         
+bite̱:bit           VActivaNasal        ;   !   provenir, venir, venirse (de algún lugar) int.  Voz media ¿ma̱nè̱te̱?  
+bité̱:baté̱           VM                     ;   !
+bité̱          VM     ;
+nû̱o̱':nû̱            VActivaNasal        ;   !   empapar, mojar algo en exceso tr.
+nû̱o̱':nû̱n       VM      ;
++V+PerfImp:nû̱o̱'      Direccionales       ;
+sí                         -a̱           ; !   secar tr.
+sír:sìn                   VM              ;   ! secarse tr. ;
+0               -o̱     ;   !   hacer tr.
+tsirí      VActivaNasal        ;   !   molestar tr.
+tsá̱i          VActiva     ;   !   molestar tr. No documentado
+bachao̱':bachâ         sin_caida_vn    ;   !   fermentar intr.
+!bâ            -o̱     ;   !   calentar intr.
+wö̀kalö̂      -a̱ ;   !   aguantar, pagar,  frenar, detener algo tr.
+a̱m                 -e̱ ;   !   dar,  entregar, si se agrega el direccional 'at'  el significado es 'dejar' referido a objetos y animales
+!a̱m:m                  -e̱ ;   !   dar,  entregar, si se agrega el direccional 'at'  el significado es 'dejar' referido a objetos y animales
+!kalö̂             -o̱ ;   ! agarrar, coger, creer tr.
+kalö'              sin_caida_vn    ;   ! agarrar, coger tr.
+p                       -a̱ ;   ! quebrar, romper tr.
+!wö́ulâ           -o̱ ;   !  saber, enseñar, aprender
+bikéits            sin_caida_v   ; !  pensar tr.
+bikéits            sin_caida_vn      ; !  pensar tr.
+kím                    -e̱ ;   !   ayudar tr.
+ma̱nê̱r:ma̱nê̱n               VM      ;   ! cambiar tr.
+ma̱nê̱             -o̱     ;   ! cambiar tr.
+tkí                    -o̱     ;   ! asustar,  preocupar tr  En Coroma  el improspectivo lleva a'  tkía̱'
+tkìn                   VM      ;   ! asustarse, preocuparse tr  
+bâ                 -o̱     ;   !   calentar int.
+dâ                 -o̱     ;   !   bajar un objeto, 
+!da'                    -o̱     ;   !   bajar un objeto, 
+dár:dàn                   VM      ;   !   forma media, caerse
+wö́balar:wö́balàn        VM      ;   !  forma media ser formado  (revisar esta entrada)
+wö́bala            -o̱     ;   !   saber 
+sawâ               -o̱     ;   !   asustar tr 
+sawàn              VM      ;   !   asustar
+shkö̂:shkö́           VActivaNasal    ;   ! fermentar intr.   
+!shkö̂:shkö́          -o̱ ;   ! fermentar intr.   
+shkö̂:shkö̀n                  VM  ;   ! forma media, fermentarse
+ts                      -e̱     ;   !   buscar, traer,  llevar tr.
+wö̀ña̱             -o̱     ;   !  *'sacarle chispas a algo'    'echar chispas' tr. Forma media 'brillar' 'relampaguear' int. 
+wö̀ñà̱n               VM      ;   !  *'sacarle chispas a algo'    'echar chispas' tr. Forma media 'brillar' 'relampaguear' int. 
+te̱:ti̱                         TemaVozActivaNasal                              ;   !   llevar, meter, introducir. La vocal temática se cierra en i̱ en el tema activo
+té̱r:tè̱n                 VM      ;   !   meterse. té̱rke̱ se usa con el significado de llegar a un lugar donde no se suele ir
++V+PerfImp:te̱'         Direccionales       ;
+katu:kuk             VActiva  ; !  asar, tostar, tr. Solo presenta formas activas. Desconocemos también el improspectivo, por lo que se cataloga como un verbo defectivo
+katu:katùn                   VM ; ! 'frito, asado, tostado' tr. 
++V+PerfImp:katu'            Direccionales       ;
+kirír:kirìn           VM ; ! enfermarse tr.
+kirî               VActivaNasal ; ! enfermarse tr.
+kirî:kirì               VActivaNasal ; ! enfermarse tr.
++V+PerfImp:kirîa̱'         Direccionales       ;
+!katû                  sin_caida_vn ; ! 'freir, asar, tostar' tr.      revisar
+chikí                  sin_caida_vn    ;   !   Verbo no documentado, 'chapear a medias un terreno'     
+dalë́                 sin_caida_vn    ;   ! doler, querer
+bula'                   -o̱         ;   ! sonar, tocar tr
+bulàn                  VM          ;   ! sonar, tocar tr.
+tul                     -u          ;   ! dar, con el direccional wa̱ 'colocar' 
+tuí                                sin_caida_vn   ; ! oscurecer, anochecer
+tuí:tawí                              sin_caida_vn   ; ! oscurecer, anochecer
+sulúr:sulùn       VM      ; ! herirse  (preguntar a Julio)        
+dapá                   -a̱     ;   ! juntar, reunir, acomodar
+dapá                   -o̱     ;   ! juntar, reunir, acomodar
+si̱                         sin_caida_vn  ; ! raspar            
+wö̀n               VM      ;   ! cosechar. No documentado. Se forma de wö̀ fruta más las formas medias?
+ñî̱                    sin_caida_vn   ; ! amanecer
+talâ:talân                VM  ;   ! crecer int Am. Ka.
+talâ               -o̱     ;   ! crecer int  Sa.  (¿forma transitiva?)
+ishtirír:ishtirìn     VM  ;   ! cansarse
+ishtiri                     -o̱ ;   
+pô                     Hiato-o̱        ;   ! No esta documentado, 'espantar' 'levantar' si̱wa̱' dör kàlkö  pôwè̱ 
+ku̱           sin_caida_vn ;   !   encontrar tr. 
+ulàttö̂       -a̱	;	! acción de espaciar  ya sea en el tiempo o en el espacio
+
+
+LEXICON -a̱         
+a̱      TemaImprospectivo       ;       
+a̱:0        TemaVozActivaNasal  ;
+
+LEXICON -e̱         
+e̱      TemaImprospectivo       ;       
+e̱:0        TemaVozActivaNasal  ;
+!e̱:i̱      TemaVozActivaNasal  ; ! Buscar estos verbos y crear una clase aparte para evitar formas como a̱mi̱ú̱k
+
+                    
+LEXICON -i̱         
+i̱      TemaImprospectivo       ;       
+i̱:0        TemaVozActivaNasal  ;
+                
+                
+LEXICON -a          
+a       TemaImprospectivo       ;       
+a:0         TemaVozActivaOral       ;   !   El tema de la voz activa. La mayoría de las formas activas se forman a partir del tema la la voz activa, llamada por Constenla (1998) tema del infinito. 
+                
+            
+!LEXICON    -e          
+!e      TemaImprospectivo       ;       
+!e:0        TemaVozActivaOral       ;                   
+                
+LEXICON -ë         
+ë      TemaImprospectivo       ;       
+ë:0        TemaVozActivaOral       ;       
+                
+LEXICON -i          
+i       TemaImprospectivo       ;       
+i:0     TemaVozActivaOral       ;       
+
+
+!LEXICON    -o      
+!o      TemaImprospectivo       ;       
+!o:0        TemaVozActivaOral       ;   
+
+
+LEXICON sin_caida_v
+0       TemaImprospectivo       ;
+0       TemaVozActivaOral       ;
+!u:w TemaVozActivaOral      ;
+
+
+LEXICON sin_caida_vn
+0       TemaImprospectivo       ;
+0    TemaVozActivaNasal     ;
+0:w      consonantizacion_nasal     ; ! Revisar esta entrada  (es la manera de poder analizar kalö̂wè̱
+!0:a̱w      consonantizacion_nasal  ;   ! Revisar esta entrada 
+
+
+LEXICON Irregular
+0       TemaImprospectivoIrregular      ;
++V:0        TemaImperfectoPrimeroIrregular      ;
+
+
+
+
+
+LEXICON VActiva
+0       TemaVozActivaOral       ;
+
+
+LEXICON VActivaNasal
++V:0        TiemposVozActivaNasal   ;       
+0:w      consonantizacion_nasal     ;
+!0:a̱w      consonantizacion_nasal  ; 
+
+
+    
+                
+LEXICON -ö         
+ö      TemaImprospectivo       ;       
+ ö:0            TemaVozActivaOral    ;      
+!ö:u       TemaVozActivaOral       ;       !   Buscar verbos con este tema  que no presenten la wau, sino eliminar esta entrada
+! ö:aw     consonantizacion_oral   ;         
+
+LEXICON Hiato-ö            
+ ö     TemaImprospectivo       ;       
+ö:aw       consonantizacion_oral   ;               
+ö:u             TemaVozActivaOral      ;       
+! ö:a      consonantizacion_oral       ;       !   Buscar verbos con este tema  que no presenten la wau, sino eliminar esta entrada
+
+LEXICON -u          
+u       TemaImprospectivo       ;       
+u:0     TemaVozActivaOral       ;       !Buscar verbos con este tema  que no presenten la wau, sino eliminar esta entrada
+u:w     consonantizacion_oral   ;   ! Dejo esta entrada por wö́k
+!u:aw       consonantizacion_oral   ;       
+
+
+
+
+LEXICON Hiato-u         
+u       TemaImprospectivo       ;       
+!u:0        TemaVozActivaOral       ;       !Buscar verbos con este tema  que no presenten la wau, sino eliminar esta entrada
+u:aw        consonantizacion_oral   ;       
+u       TemaVozActivaOral   ;   
+
+
+
+
+!LEXICON -u̱         
+!u̱      TemaImprospectivo       ;       
+!u̱:0        TemaVozActivaNasal  ;       !Buscar verbos con este tema  que no presenten la wau, sino eliminar esta entrada
+!u̱:w        consonantizacion_nasal     ;
+!u̱:a̱w     consonantizacion_nasal  ;               
+
+
+
+
+LEXICON Hiato-u̱            
+u̱      TemaImprospectivo       ;       
+u̱       TemaVozActivaNasal     ; ! El  único verbo que sufre el hiato es sa̱ú̱k, sa̱wè̱ etc.  No se dan formas como su̱ú̱k, tal vez su̱è̱
+u̱:a̱w      consonantizacion_nasal  ;               
+!u̱:u̱      TemaVozActivaNasal  ;       !Buscar verbos con este tema  que no presenten la wau, sino eliminar esta entrada
+
+
+
+
+
+LEXICON -o̱         
+o̱      TemaImprospectivo       ;       
+o̱:0        TemaVozActivaNasal  ;       
+!o̱:a̱w     consonantizacion_nasal  ;               
+ o̱:w             consonantizacion_nasal  ;    
+
+
+
+LEXICON Hiato-o̱        
+o̱      TemaImprospectivo       ;       
+! o̱:0      TemaVozActivaNasal  ;       
+o̱:u̱       consonantizacion_nasal  ;               
+o̱:a̱w            consonantizacion_nasal           ;
+
+        
+                
+    
+LEXICON     TemaVozActivaOral
++V:0        TiemposVozActivaOral    ;
+    
+                
+LEXICON     TemaVozActivaNasal
+ +V:0       TiemposVozActivaNasal   ;               
+                
+
+                
+LEXICON consonantizacion_oral
+ +V:0             TiemposVozActivaOral ;                    
+                
+LEXICON consonantizacion_nasal
++V:0        TiemposVozActivaNasal   ;       
+                
+LEXICON     TiemposVozActivaOral            
++Imp1Intran:ö̀ TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos intransitivos. Jara (2013) lo llama solo imperfecto
++Imp1Intran:ö TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos intransitivos. Jara (2013) lo llama solo imperfecto
++Imp1Tran:è    TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos transitivos
++Imp1Tran:e    TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos transitivos. De acuerdo con Constenla (p. 83 1998) el tono alto cambia a bajo cuando  la forma verbal no está precedida por los proclíticos personales ni seguido por sufijos 
++Inf:ö́k           MovInfinitivo               ;   !   Infinitivo (hay que crear una regla para que los infinitivos que no llevan otro tono, incorporen el tono descendente, de acuerdo con Constenla, las vocales temáticas de los infinitivos llevan generalmente tono descendente. Hay excepciones cuando hay otro tono previo, entonces, el tono descendente cambia a bajo )
++ModoFin:ó     Direccionales       ;   !   Este sufijo se emplea para construir formas verbales dependientes de finalidad de verbos orales
++Prosp:é       MovProspectivo              ;   !   Perfecto Prospectivo Activo
++ModoConIntr:ó Direccionales                       ;   !   Modo de conocimiento de los verbos intransitivos (De acuerdo con Constenla, en las oraciones negativas si no recibe ningún sufijo el tono es bajo. 
++ModoOpt:a'ku̱      #                       ;   !   Modo Optativo
+!+ModoOpt:ak     #                       ;   !   Modo Optativo forma erosionada  (Comunicación personal de Franklin Morales, junio, 2016)
++ModoAdvers:a'      Direccionales                   ;   !   Modo Adversativo
++ModoImp:ö́        Direccionales                   ;   !   Modo Imperativo Afirmativo Activo
++ModoImpNeg:ar  #                       ;   !   Modo Imperativo Negativo ¿Medio? (pag  77, Constenla, 1998)
+                
+                
+
+LEXICON     TiemposVozActivaNasal           
++Imp1Intran:ù̱ TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos intransitivos
++Imp1Intran:u̱ TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos intransitivos
++Imp1Tran:è̱   TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos transitivos
++Imp1Tran:e̱   TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos transitivos
++Inf:ú̱k               MovInfinitivo                       ;   !   Infinitivo  (revisar el tono de los infinitivos nasales, al parecer algunos verbos no llevan el  tono descendente, ú̱nu̱k  'ver'. 
++ModoFin:ó̱        Direccionales       ;   !   Este sufijo se emplea para construir formas verbales dependientes de finalidad de verbos nasales
++Prosp:é̱          MovProspectivo                  ;   !   Perfecto Prospectivo Activo
++ModoConIntr:ó̱        Direccionales                   ;   !   Modo de conocimiento de los verbos intransitivos
++ModoOpt:a̱'ku̱     Direccionales                   ;   !   Modo Optativo
++ModoOpt:á̱k       Direccionales                       ;   !   Modo Optativo forma erosionada (Comunicación personal de Franklin Morales, junio, 2016)
++ModoAdvers:a̱'     Direccionales                       ;   !   Modo Adversativo
++ModoImp:ú̱        Direccionales                       ;   !   Modo Imperativo Afirmativo Activo
++ModoImpNeg:a̱r #                       ;   !   Modo Imperativo Negativo ¿Medio? (ṕag  77, Constenla, 1998)
+                
+LEXICON TemaImperfectoPrimeroIrregular
++Imp1Intran:0   TiemposImperfectoPrimero    ;   !   Imperfecto Primero, verbos intransitivos
++Inf:k              Direccionales                   ;   !   Infinitivo 
++Prosp:a̱           Direccionales                       ;   !   Perfecto Prospectivo Activo
+
+                
+                
+LEXICON     TiemposImperfectoPrimero            
++Imp2:ke̱       Direccionales                           ;   !   Imperfecto Segundo o Imperfecto habitual,verbos orales kew
++Imp2Neg:ku̱     Direccionales                      ;   !   Imperfecto Seguno o Imperfecto habitual negativo
++ImpFut:dâ     Direccionales                       ;   !   Imperfecto Futuro de Certidumbre Afirmativo
++ImpFutNeg:pa   #                           ;   !   Imperfecto Futuro de Certidumbre Negativo
++ImpPot:mi̱      Direccionales              ;   !   Imperfecto Potencial
+!+Caus^:0               -o̱     ;   !   hacer tr.               
+                Direccionales               ;
+                
+
+
+LEXICON         TemaImprospectivo           
++V:0            Improspectivo               ;       
+                
+                
+                
+LEXICON     Improspectivo           
++VozMedia:d TiemposVozMedia         ;       
++PerfImp:'      MovImprospectivo                ;       !    La mayoría de las formas medias  de los verbos orales y nasales se forman a partir del tema del perfecto improspectivo activo, llamado por Constena (1998) tema del perfecto improspectivo por que se predice quitando el   saltillo o el tono descendente del final  de esta conjugación
+                                                                !   Jara (2013) lo denomina perfecto remoto activo
+            
+                
+LEXICON         TemaImprospectivoIrregular          
++V:0            ImprospectivoIrregular              ;       ! Parece que el verbo irregular mi̱' no tiene improspectivo activo
+                
+
+                
+                
+LEXICON     ImprospectivoIrregular          
++VozMedia:d TiemposVozMedia         ;       
+
+            
+                                
+                
+                
+                
+LEXICON     TiemposVozMedia         
++Prosp:a̱       Direccionales               ;   !   Prospectivo medio
++PerfImp:e̱     Direccionales               ;   !   Improspectivo medio
++Inf:u̱k            #                           ;   !   Infinitivo medio
++Imp1:0     TiempoAnterior          ;   !   Imperfecto primero medio
++ModoFin:ó̱        Direccionales       ;   !   Este sufijo se emplea para construir formas verbales dependientes de finalidad de verbos nasales y formas medias            
+
+
+                
+LEXICON         TiempoAnterior              
++Anterior:ule   Direccionales                           ;   !   Forma anterior
+0           Direccionales                   ;
+0           TiemposImperfectoPrimero    ;   !   
+            
