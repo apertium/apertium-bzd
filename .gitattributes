@@ -1,4 +1,5 @@
 * text=auto !eol
+/AUTHORS -text
 /Makefile -text
 /apertium-bzd.bzd.foma -text
 /apertium-bzd.bzd.lexc -text
